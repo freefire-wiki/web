@@ -2,10 +2,11 @@
     "NOTICIAS":[
         {
             "IMG":"/noticias/anuncios.jpg",
+            "LINK":"https://www.freefire.wiki",
             "EsTITULO":"Pueba",
             "EsFECHA":"20 de febrero",
             "EsINFO":"spanish spanis spanish",
-            
+
             "EnTITULO":"Test",
             "EnFECHA":"20 of february",
             "EnINFO":"english english english"
