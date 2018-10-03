@@ -1,47 +1,26 @@
 {
-
     "NOTICIAS":[
-
         {
-
             "IMG":"/noticias/anuncios.jpg",
-
             "LINK":"https://www.freefire.wiki",
-
             "EsTITULO":"NUEVA APLICACION DE FREEFIRE",
-
             "EsFECHA":"27 de Septiembre",
-
-            "EsINFO":"Es presentada la nueva aplicacion NO OFICIAL del juego FREEFIRE Battleground para Android",
+            "EsINFO":"Es presentada la nueva aplicacion NO OFICIAL del juego FREEFIRE Battleground para Android. Continuamente vamos a estar subiendo mas contenido e informacion relevante. Si hay buena aceptacion, hasta podriamos regalar articulos del juego ;)",
 
             "EnTITULO":"NEW FREEFIRE APP",
-
             "EnFECHA":"September 27",
-
-            "EnINFO":"Es showed the new app NO OFFICIAL from game FREEFIRE Battleground to Android"
-
-        }, 
-
+            "EnINFO":"Es showed the new app NO OFFICIAL from game FREEFIRE Battleground to Android. We going to continue uploading more content and information important. If there is good accept for us, we could do gift for you ;)"
+        },
         {
-
             "IMG":"/noticias/Screenshot_2018-10-02-15-58-07-361_com.dts.freefireth.png",
-
             "LINK":"nolink",
-
             "EsTITULO":"NUEVO PASE ELITE",
-
             "EsFECHA":"Octubre 2",
-
             "EsINFO":"El nuevo pase de elite para piratas está disponible en el juego desde hoy",
 
             "EnTITULO":"NEW ELIT PASS",
-
             "EnFECHA":"October 1",
-
             "EnINFO":"The new elit pass for pirats is available in the game since today"
-
         }
-
     ]
-
 }
