@@ -4,7 +4,7 @@
             "TITULO": "M60",
             "IMG": "https://res.cloudinary.com/freefire-wiki/image/upload/v1538625583/armas/M60.png",
             "SKIN":[
-                "/armas/M60.png"
+                "https://res.cloudinary.com/freefire-wiki/image/upload/v1538625583/armas/M60.png"
             ],
             "DAMAGE":"-",
             "RANGO":"-",
@@ -20,7 +20,6 @@
             "TITULO": "Bipod",
             "IMG": "https://res.cloudinary.com/freefire-wiki/image/upload/v1538625583/armas/bipode.png",
             "SKIN":[
-                "/armas/bipode.png"
             ],
             "DAMAGE":"-",
             "RANGO":"-",
