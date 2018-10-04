@@ -1,0 +1,35 @@
+{
+  "NEWS": [
+        {
+            "TITULO": "M60",
+            "IMG": "/armas/M60.png",
+            "SKIN":[
+                "/armas/M60.png"
+            ],
+            "DAMAGE":"-",
+            "RANGO":"-",
+            "VEL_DISPARO":"-",
+            "VEL_CARGA":"-",
+            "CARTUCHO":"-",
+            "PUNTERIA":"-",
+            "ACCESORIOS":[
+                "assets/imgs/armas/accesorios/mirilla.png"
+            ]
+        },
+        {
+            "TITULO": "Bipode",
+            "IMG": "/armas/bipode.png",
+            "SKIN":[
+                "/armas/bipode.png"
+            ],
+            "DAMAGE":"-",
+            "RANGO":"-",
+            "VEL_DISPARO":"-",
+            "VEL_CARGA":"-",
+            "CARTUCHO":"-",
+            "PUNTERIA":"-",
+            "ACCESORIOS":[
+            ]
+        }
+      ]
+}
