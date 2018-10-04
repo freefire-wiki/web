@@ -2,7 +2,7 @@
   "NEWS": [
         {
             "TITULO": "M60",
-            "IMG": "/armas/M60.png",
+            "IMG": "https://res.cloudinary.com/freefire-wiki/image/upload/v1538625583/armas/M60.png",
             "SKIN":[
                 "/armas/M60.png"
             ],
@@ -17,8 +17,8 @@
             ]
         },
         {
-            "TITULO": "Bipode",
-            "IMG": "/armas/bipode.png",
+            "TITULO": "Bipod",
+            "IMG": "https://res.cloudinary.com/freefire-wiki/image/upload/v1538625583/armas/bipode.png",
             "SKIN":[
                 "/armas/bipode.png"
             ],
