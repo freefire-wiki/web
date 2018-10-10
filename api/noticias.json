@@ -1,16 +1,24 @@
 {
     "NOTICIAS":[
-        {
-            "IMG":"/noticias/anuncios.jpg",
-            "LINK":"https://www.freefire.wiki",
-            "EsTITULO":"NUEVA APLICACION DE FREEFIRE",
-            "EsFECHA":"27 de Septiembre",
-            "EsINFO":"Es presentada la nueva aplicacion NO OFICIAL del juego FREEFIRE Battleground para Android. Continuamente vamos a estar subiendo mas contenido e informacion relevante. Si hay buena aceptacion, hasta podriamos regalar articulos del juego ;)",
+      {
 
-            "EnTITULO":"NEW FREEFIRE APP",
-            "EnFECHA":"September 27",
-            "EnINFO":"Is showed the new app NO OFFICIAL from game FREEFIRE Battleground to Android. We going to continue uploading more content and information important. If there is good accept for us, we could do gift for you ;)"
-        },
+            "IMG":"/noticias/Screenshot_2018-10-07-05-41-16-134_com.facebook.katana.jpg",
+
+            "LINK":"nolink",
+
+            "EsTITULO":"NUEVO CAMUFLAJE",
+
+            "EsFECHA":"Octubre 10",
+
+            "EsINFO":"El nuevo camuflaje de barril de aceite está listo, yo lo he encontrado en Mill y en Mars Electric",
+
+            "EnTITULO":"NEW CAMOUFLAGE",
+
+            "EnFECHA":"October 10",
+
+            "EnINFO":"The new oil drum is available in the game, I have found it in Mill and Mars Electric"
+
+        }, 
         {
             "IMG":"/noticias/Screenshot_2018-10-08-04-28-13-714_carlos.gasa.freefirewiki.png",
             "LINK":"https://www.instagram.com/p/BoqwBG1FoZ3/?utm_source=ig_share_sheet&igshid=13ffgiy2rmq6t",
@@ -22,17 +30,8 @@
             "EnFECHA":"October 8",
             "EnINFO":"The new update for the Wiki is already available for the download in the PlayStore, for more information about this new version click in the link"
         },
-        {
-            "IMG":"/noticias/Screenshot_2018-10-07-05-41-16-134_com.facebook.katana.jpg",
-            "LINK":"nolink",
-            "EsTITULO":"NUEVO CAMUFLAJE",
-            "EsFECHA":"Octubre 7",
-            "EsINFO":"El nuevo camuflaje de barril  de aceite estará listo para el próximo 10 de octubre según ha informado Garena",
-
-            "EnTITULO":"NEW CAMOUFLAGE",
-            "EnFECHA":"October 7",
-            "EnINFO":"The new oil drum will be available the next 10th of October, it was announced by Garena"
-        }, 
+       
+            
         {
             "IMG":"/noticias/Screenshot_2018-10-07-01-48-47-759_com.instagram.layout.jpg",
             "LINK":"nolink",
