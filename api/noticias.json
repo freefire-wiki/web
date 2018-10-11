@@ -1,6 +1,26 @@
 {
     "NOTICIAS":[
-      {
+     {
+
+            "IMG":"/noticias/Screenshot_2018-10-11-09-41-18-941_com.instagram.android.jpg",
+
+            "LINK":"nolink",
+
+            "EsTITULO":"NUEVOS ARTICULOS",
+
+            "EsFECHA":"Octubre 11",
+
+            "EsINFO":"Una nueva peluca rubia y algunos items estarán disponibles en la región de América",
+
+            "EnTITULO":"NEW ITEMS",
+
+            "EnFECHA":"October 11",
+
+            "EnINFO":"A new blonde wig and some items will be available in the region of America"
+
+        }, 
+
+ {
 
             "IMG":"/noticias/Screenshot_2018-10-07-05-41-16-134_com.facebook.katana.jpg",
 
