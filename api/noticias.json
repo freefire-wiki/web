@@ -1,54 +1,28 @@
 {
     "NOTICIAS":[
-     {
+        {
+            "IMG":"/noticias/ffw.png",
+            "LINK":"https://play.google.com/store/apps/details?id=carlos.gasa.freefirewiki",
+            "EsTITULO":"NUEVA ACTUALIZACION",
+            "EsFECHA":"Octubre 12",
+            "EsINFO":"Una nueva actualizacion con un monton de contenido ya esta disponible en la PlayStore",
 
-            "IMG":"/noticias/Screenshot_2018-10-11-09-41-18-941_com.instagram.android.jpg",
-
-            "LINK":"nolink",
-
-            "EsTITULO":"NUEVOS ARTICULOS",
-
-            "EsFECHA":"Octubre 11",
-
-            "EsINFO":"Una nueva peluca rubia y algunos items estarán disponibles en la región de América",
-
-            "EnTITULO":"NEW ITEMS",
-
-            "EnFECHA":"October 11",
-
-            "EnINFO":"A new blonde wig and some items will be available in the region of America"
-
+            "EnTITULO":"NEW UPDATE",
+            "EnFECHA":"October 12",
+            "EnINFO":"A new update with a lot of new info already is available in the PlayStore"
         }, 
 
- {
-
+        {
             "IMG":"/noticias/Screenshot_2018-10-07-05-41-16-134_com.facebook.katana.jpg",
-
             "LINK":"https://www.instagram.com/p/Bovu72ElqlF/?utm_source=ig_share_sheet&igshid=1eobgngh2b7bi",
-
             "EsTITULO":"NUEVO CAMUFLAJE",
-
             "EsFECHA":"Octubre 10",
-
             "EsINFO":"El nuevo camuflaje de barril de aceite está listo, yo lo he encontrado en Mill y en Mars Electric",
 
             "EnTITULO":"NEW CAMOUFLAGE",
-
             "EnFECHA":"October 10",
-
             "EnINFO":"The new oil drum is available in the game, I have found it in Mill and Mars Electric"
 
-        }, 
-        {
-            "IMG":"/noticias/Screenshot_2018-10-08-04-28-13-714_carlos.gasa.freefirewiki.png",
-            "LINK":"https://www.instagram.com/p/BoqwBG1FoZ3/?utm_source=ig_share_sheet&igshid=13ffgiy2rmq6t",
-            "EsTITULO":"NUEVA ACTUALIZACION",
-            "EsFECHA":"Octubre 8",
-            "EsINFO":"La nueva actualizacion para la Wiki ya esta disponible para que la descargues en la Playstore, para ver mas detalles de la nueva version da clic en en elnace de abajo",
-
-            "EnTITULO":"NEW UPDATE",
-            "EnFECHA":"October 8",
-            "EnINFO":"The new update for the Wiki is already available for the download in the PlayStore, for more information about this new version click in the link"
         },
        
             
@@ -73,40 +47,6 @@
             "EnTITULO":"Give me one like to official page of app",
             "EnFECHA":"October 4",
             "EnINFO":"One like for improve the application, if the app have good support, we would to do one or more give away"
-        },
-        {
-            "IMG":"/noticias/Screenshot_2018-10-05-01-01-06-654_com.dts.freefireth.jpg",
-            "LINK":"nolink",
-            "EsTITULO":"NUEVA SKIN",
-            "EsFECHA":"Octubre 5",
-            "EsINFO":"La nueva skin para el AK ya esta disponible en lucky royale, su nombre es Dragon Furiiso",
-
-            "EnTITULO":"NEW SKIN",
-            "EnFECHA":"October 5",
-            "EnINFO":"The new sking for the AK is ready in Lucky royale, its name is furious dragon "
-        },
-        {
-
-            "IMG":"/noticias/Screenshot_2018-10-03-06-34-01-467_com.instagram.layout.jpg",
-            "LINK":"nolink",
-            "EsTITULO":"NUEVA ARMA DISPONIBLE",
-            "EsFECHA":"Octubre 3",
-            "EsINFO":"La ametralladora M60 es la nueva arma disponible en Free Fire, esta arma tiene más capacidad en cartucho y usa balas AR. Próximamente estará disponible en Free Fire Wiki cuando Garena revele más detalles. ",
-
-            "EnTITULO":"NEW WEAPON AVAILABLE",
-            "EnFECHA":"October 3",
-            "EnINFO":"The assault riffle M60 is the new weapon available in Free Fire, it have more space in cartridge and it use AR, when Garena showed more information, the gun will be in the app. "
-        }, 
-        {
-            "IMG":"/noticias/Screenshot_2018-10-02-15-58-07-361_com.dts.freefireth.png",
-            "LINK":"nolink",
-            "EsTITULO":"NUEVO PASE ELITE",
-            "EsFECHA":"Octubre 2",
-            "EsINFO":"El nuevo pase de elite para piratas está disponible en el juego desde hoy",
-
-            "EnTITULO":"NEW ELIT PASS",
-            "EnFECHA":"October 1",
-            "EnINFO":"The new elit pass for pirats is available in the game since today"
         }
     ]
 }
