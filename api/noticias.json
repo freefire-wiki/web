@@ -1,6 +1,24 @@
 {
     "NOTICIAS":[
-      
+      {
+
+            "IMG":"/noticias/Screenshot_2018-10-13-11-09-23-636_com.facebook.katana.jpg",
+
+            "LINK":"https://www.facebook.com/FreeFireMomos/",
+
+            "EsTITULO":"LOS MEJORES MOMOS DE FREE FIRE",
+
+            "EsFECHA":"Octubre 13",
+
+            "EsINFO":"Si lo que quieres es ver buen humor de Free Fire, dale clic al enlace de +info. Actualiza memea diario. ",
+
+            "EnTITULO":"Rumores de nova arma",
+
+            "EnFECHA":"Outubro 13",
+
+            "EnINFO":"Se você quiser ver memes bom, clique no link abaixo. Vá até memes diariamente. "
+
+        }, 
       	{
             "IMG":"/noticias/AUG_A1_508mm_04.jpg",
 
