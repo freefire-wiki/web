@@ -1,6 +1,26 @@
 {
     "NOTICIAS":[
-        {
+      
+      	{
+            "IMG":"/noticias/AUG_A1_508mm_04.jpg",
+
+            "LINK":"nolink",
+
+            "EsTITULO":"RUMORES DE NUEVA ARMA",
+
+            "EsFECHA":"Octubre 13",
+
+            "EsINFO":"Se empiezan a ver imagenes de una posible nueva arma en Free Fire, su nombre es AUG",
+
+            "EnTITULO":"Rumores de nova arma",
+
+            "EnFECHA":"Outubro 13",
+
+            "EnINFO":"Você começa a ver fotos de uma nova arma para FreeFire, ainda não foi confirmado"
+
+        }, 
+
+  {
             "IMG":"/noticias/ffw.png",
             "LINK":"https://play.google.com/store/apps/details?id=carlos.gasa.freefirewiki",
             "EsTITULO":"NUEVA ACTUALIZACION",
