@@ -2,32 +2,18 @@
   "NEWS": [
         {
             "TITULO": "M60",
-            "IMG": "https://res.cloudinary.com/freefire-wiki/image/upload/v1538625583/armas/M60.png",
+            "IMG": "https://ff.garena.com/statics/ff//images/weapon/M60.png",
             "SKIN":[
-                "https://res.cloudinary.com/freefire-wiki/image/upload/v1538625583/armas/M60.png"
+                "https://ff.garena.com/statics/ff//images/weapon/M60.png"
             ],
-            "DAMAGE":"-",
-            "RANGO":"-",
-            "VEL_DISPARO":"-",
-            "VEL_CARGA":"-",
-            "CARTUCHO":"-",
-            "PUNTERIA":"-",
+            "DAMAGE":"56",
+            "RANGO":"65",
+            "VEL_DISPARO":"56",
+            "VEL_CARGA":"48",
+            "CARTUCHO":"60",
+            "PUNTERIA":"43",
             "ACCESORIOS":[
                 "assets/imgs/armas/accesorios/mirilla.png"
-            ]
-        },
-        {
-            "TITULO": "Bipod",
-            "IMG": "https://res.cloudinary.com/freefire-wiki/image/upload/v1538625583/armas/bipode.png",
-            "SKIN":[
-            ],
-            "DAMAGE":"-",
-            "RANGO":"-",
-            "VEL_DISPARO":"-",
-            "VEL_CARGA":"-",
-            "CARTUCHO":"-",
-            "PUNTERIA":"-",
-            "ACCESORIOS":[
             ]
         }
       ]
