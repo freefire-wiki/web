@@ -1,23 +1,27 @@
 {
     "NOTICIAS":[
-      {
-
+        {
+            "IMG":"/noticias/IMG_20181014_202650.jpg",
+            "LINK":"https://goo.gl/na2Ckg",
+          
+            "EsTITULO":"ESTADISTICAS OFICIALES DE LA M60",
+            "EsFECHA":"Octubre 14",
+            "EsINFO":"Garena ya ha dado un adelanto de la informacion detallada de la nueva arma M60, ve a la seccion de armas para conocerlas.",
+            
+            "EnTITULO":"ESTATÍSTICAS OFICIAIS DA M60",
+            "EnFECHA":"Outubro 14",
+            "EnINFO":"Garena já deu um adiantamento das informações detalhadas da nova arma M60, vá para a seção de armas para conhecê-las."
+        },{
             "IMG":"/noticias/Screenshot_2018-10-13-11-09-23-636_com.facebook.katana.jpg",
-
             "LINK":"https://www.facebook.com/FreeFireMomos/",
-
+          
             "EsTITULO":"LOS MEJORES MOMOS DE FREE FIRE",
-
             "EsFECHA":"Octubre 13",
-
             "EsINFO":"Si lo que quieres es ver buen humor de Free Fire, dale clic al enlace de +info. Actualiza memes diario. ",
-
+            
             "EnTITULO":"MEMES",
-
             "EnFECHA":"Outubro 13",
-
             "EnINFO":"Se você quiser ver memes bom, clique no link abaixo. Vá até memes diariamente. "
-
         }, {
 
             "IMG":"/noticias/Screenshot_2018-10-14-04-06-40-903_com.instagram.android.jpg",
