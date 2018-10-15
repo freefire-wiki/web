@@ -14,7 +14,8 @@
             "PUNTERIA":"43",
             "ACCESORIOS":[
                 "assets/imgs/armas/accesorios/mirilla.png"
-            ]
+            ],
+            "BALA":"assets/imgs/armas/balas/ar.png"
         }
       ]
 }
