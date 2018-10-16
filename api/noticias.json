@@ -1,6 +1,26 @@
 {
     "NOTICIAS":[
-        {
+       {
+
+            "IMG":"/noticias/Screenshot_2018-10-15-22-30-15-513_com.instagram.android.jpg",
+
+            "LINK":"https://goo.gl/na2Ckg",
+
+            "EsTITULO":"ACTUALIZACIÓN",
+
+            "EsFECHA":"Octubre 16",
+
+            "EsINFO":"La actualización de este mes es de Halloween 🎃, trae nuevos bailes y reacciones *dab* para usar. Nuevos skins y nuevas pantallas.",
+
+            "EnTITULO":"Atualização",
+
+            "EnFECHA":"Outubro 15",
+
+            "EnINFO":"Atualização deste mês é de Halloween 🎃, trazer novas danças e * DAB * reações ao uso. Novas skins e novas telas"
+
+        }, 
+
+ {
             "IMG":"/noticias/IMG_20181014_202650.jpg",
             "LINK":"https://goo.gl/na2Ckg",
           
