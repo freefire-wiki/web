@@ -1,6 +1,24 @@
 {
     "NOTICIAS":[
-       {
+              {
+
+            "IMG":"/noticias/60fps.jpg",
+
+            "LINK":"https://www.instagram.com/p/BpBV_5fAas1/?utm_source=ig_web_copy_link",
+
+            "EsTITULO":"60 FPS",
+
+            "EsFECHA":"Octubre 17",
+
+            "EsINFO":"Free Fire ya permite jugar el juego a 60 fps, el consumo de bateria es mayor, pero el juego va mas fluido",
+
+            "EnTITULO":"60 FPS",
+
+            "EnFECHA":"Outubro 17",
+
+            "EnINFO":"Free Fire já permite jogar o jogo a 60 fps, o consumo de bateria é maior, mas o jogo é mais fluido"
+
+        }, {
 
             "IMG":"/noticias/Screenshot_2018-10-15-22-30-15-513_com.instagram.android.jpg",
 
