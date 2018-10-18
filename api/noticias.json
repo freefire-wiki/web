@@ -1,6 +1,26 @@
 {
     "NOTICIAS":[
-              {
+       {
+
+            "IMG":"/noticias/1-IE5f6zOm6qoccmldcMySeA-640x3001.jpg",
+
+            "LINK":"https://goo.gl/na2Ckg",
+
+            "EsTITULO":"NUEVA ARMA",
+
+            "EsFECHA":"Octubre 17",
+
+            "EsINFO":"Próximamente se integra una nueva arma al juego, su nombre es la P90 y tendrá un cartucho de 12 balas",
+
+            "EnTITULO":"Nova arma",
+
+            "EnFECHA":"Outubro 15",
+
+            "EnINFO":"Logo ele integra uma nova arma para o jogo, seu nome é o P90 e terá um cartucho de 12 balas"
+
+        }, 
+
+       {
 
             "IMG":"/noticias/60fps.jpg",
 
