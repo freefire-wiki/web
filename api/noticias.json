@@ -1,6 +1,26 @@
 {
     "NOTICIAS":[
-       {
+    {
+
+            "IMG":"/noticias/Screenshot_2018-10-20-00-22-47-463_com.twitter.android.jpg",
+
+            "LINK":"https://halloween.latam.freefiremobile.com/game",
+
+            "EsTITULO":"HALLOWEEN LATAM",
+
+            "EsFECHA":"Octubre 20",
+
+            "EsINFO":"Ya esta disponible la plataforma para hacer tiros y ganar premios en FREE FIRE, entra al link y conecta con tu cuenta para que empieces a sumar dulces y canjearlos",
+
+            "EnTITULO":"HALLOWEEN LATAM",
+
+            "EnFECHA":"Outubro 20",
+
+            "EnINFO":"Já disponível a plataforma para fazer tiros e ganhar prêmios em FREE FIRE, digite o link e se conectar com sua conta para começar a adicionar doces e resgatar"
+
+        }, 
+
+   {
 
             "IMG":"/noticias/Screenshot_2018-10-19-17-53-14-250_com.instagram.android.jpg",
             "LINK":"https://goo.gl/na2Ckg",
