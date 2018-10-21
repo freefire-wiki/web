@@ -1,6 +1,26 @@
 {
     "NOTICIAS":[
-    {
+ {
+
+            "IMG":"/noticias/Screenshot_2018-10-21-15-05-31-171_com.dts.freefireth.jpg",
+
+            "LINK":"nolink",
+
+            "EsTITULO":"INVITA AMIGOS POR PREMIOS DE HALLOWEEN 🎃 ",
+
+            "EsFECHA":"Octubre 21",
+
+            "EsINFO":"Invita a tus amigos a jugar para recibir premios, entra al juego en la sección de amigos y mandales la invitación. Ellos la aceptan y los premios son para todos",
+
+            "EnTITULO":"Convide amigos para o dia das bruxas 🎃 Awards",
+
+            "EnFECHA":"Outubro 21",
+
+            "EnINFO":"Convide seus amigos para jogar por prêmios, entrar no jogo na seção amigos e enviar-lhes o convite. Eles aceitam e os prêmios são para todos"
+
+        }, 
+
+   {
 
             "IMG":"/noticias/Screenshot_2018-10-20-00-22-47-463_com.twitter.android.jpg",
 
