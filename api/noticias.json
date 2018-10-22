@@ -2,6 +2,23 @@
     "NOTICIAS":[
  {
 
+            "IMG":"/noticias/glooh.jpg",
+            "LINK":"nolink",
+
+            "EsTITULO":"NUEVA SKIN DE PARED DE HIELO 🎃 ",
+
+            "EsFECHA":"Octubre 22",
+
+            "EsINFO":"Esta nueva skin de pared gloo estilo dia de brujas, sera integrada en el juego en los proximos dias",
+
+            "EnTITULO":"NOVA PELE PAREDE ICE 🎃",
+
+            "EnFECHA":"Outubro 22",
+
+            "EnINFO":"Este novo dia de bruxa estilo parede de glu, será integrado no jogo nos próximos dias"
+
+        },  {
+
             "IMG":"/noticias/Screenshot_2018-10-21-15-05-31-171_com.dts.freefireth.jpg",
 
             "LINK":"nolink",
