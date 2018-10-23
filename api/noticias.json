@@ -1,6 +1,23 @@
 {
     "NOTICIAS":[
- {
+  {
+
+            "IMG":"/noticias/zombie.jpg",
+            "LINK":"https://youtu.be/v5xaWzTl3Iw",
+
+            "EsTITULO":"CARRERA MORTAL DE ZOMBIES 🎃 ",
+
+            "EsFECHA":"Octubre 23",
+
+            "EsINFO":"La guerra en contra de los zombies se aproxima, faltan menos de 4 dias. Ve el video del link para que veas una demostracion de Garena",
+
+            "EnTITULO":"ZOMBIS MORTAL CARREIRA 🎃",
+
+            "EnFECHA":"Outubro 23",
+
+            "EnINFO":"A guerra contra os zumbis está se aproximando, menos de quatro dias estão faltando. Veja o link do vídeo para ver uma demonstração de Garena"
+
+        },{
 
             "IMG":"/noticias/glooh.jpg",
             "LINK":"nolink",
