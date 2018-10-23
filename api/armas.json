@@ -1,21 +1,5 @@
 {
   "NEWS": [
-        {
-            "TITULO": "M60",
-            "IMG": "https://ff.garena.com/statics/ff//images/weapon/M60.png",
-            "SKIN":[
-                "https://ff.garena.com/statics/ff//images/weapon/M60.png"
-            ],
-            "DAMAGE":"56",
-            "RANGO":"65",
-            "VEL_DISPARO":"56",
-            "VEL_CARGA":"48",
-            "CARTUCHO":"60",
-            "PUNTERIA":"43",
-            "ACCESORIOS":[
-                "assets/imgs/armas/accesorios/mirilla.png"
-            ],
-            "BALA":"assets/imgs/armas/balas/ar.png"
-        }
+        
       ]
 }
