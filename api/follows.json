@@ -3,35 +3,35 @@
     {
       "NET":"Youtube",
       "FOLLOWS":131,
-      "EsSUSCRIBETE":"Suscribete",
-      "EnSUSCRIBETE":"Suscribe",
-      "PoSUSCRIBETE":"Subscrever",
-      "InSUSCRIBETE":"Berlangganan"
+      "EsSU":"Suscribete",
+      "EnSU":"Suscribe",
+      "PoSU":"Subscrever",
+      "InSU":"Berlangganan"
     },
     {
       "NET":"Facebook",
       "FOLLOWS":135,
       
-      "EsLIKE":"Me gusta",
-      "EnLIKE":"Like",
-      "PoLIKE":"Gostar",
-      "InLIKE":"Seperti"
+      "EsSU":"Me gusta",
+      "EnSU":"Like",
+      "PoSU":"Gostar",
+      "InSU":"Seperti"
     },
     {
       "NET":"Twitter",
       "FOLLOWS":1,
-      "EsSIGUEME":"Seguir",
-      "EnSIGUEME":"Follow",
-      "PoSIGUEME":"Segue",
-      "InSIGUEME":"Mengikuti"
+      "EsSU":"Seguir",
+      "EnSU":"Follow",
+      "PoSU":"Segue",
+      "InSU":"Mengikuti"
     },
     {
       "NET":"Instagram",
       "FOLLOWS":283,
-      "EsSIGUEME":"Seguir",
-      "EnSIGUEME":"Follow",
-      "PoSIGUEME":"Segue",
-      "InSIGUEME":"Mengikuti"
+      "EsSU":"Seguir",
+      "EnSU":"Follow",
+      "PoSU":"Segue",
+      "InSU":"Mengikuti"
     }
   ]
 }
