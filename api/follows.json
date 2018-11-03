@@ -2,19 +2,19 @@
   "FOLLOW":[
     {
       "NET":"Youtube",
-      "FOLLOWS":127
+      "FOLLOWS":131
     },
     {
       "NET":"Facebook",
-      "FOLLOWS":125
+      "FOLLOWS":135
     },
     {
       "NET":"Twitter",
-      "FOLLOWS":0
+      "FOLLOWS":1
     },
     {
       "NET":"Instagram",
-      "FOLLOWS":280
+      "FOLLOWS":283
     }
   ]
 }
