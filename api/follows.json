@@ -6,7 +6,8 @@
       "EsSU":"Suscribete",
       "EnSU":"Suscribe",
       "PoSU":"Subscrever",
-      "InSU":"Berlangganan"
+      "InSU":"Berlangganan",
+      "COLOR":"youtube"
     },
     {
       "NET":"Facebook",
@@ -15,7 +16,8 @@
       "EsSU":"Me gusta",
       "EnSU":"Like",
       "PoSU":"Gostar",
-      "InSU":"Seperti"
+      "InSU":"Seperti",
+      "COLOR":"facebook"
     },
     {
       "NET":"Twitter",
@@ -23,7 +25,8 @@
       "EsSU":"Seguir",
       "EnSU":"Follow",
       "PoSU":"Segue",
-      "InSU":"Mengikuti"
+      "InSU":"Mengikuti",
+      "COLOR":"twitter"
     },
     {
       "NET":"Instagram",
@@ -31,7 +34,8 @@
       "EsSU":"Seguir",
       "EnSU":"Follow",
       "PoSU":"Segue",
-      "InSU":"Mengikuti"
+      "InSU":"Mengikuti",
+      "COLOR":"instagram"
     }
   ]
 }
