@@ -7,7 +7,7 @@
       "EnSU":"Suscribe",
       "PoSU":"Subscrever",
       "InSU":"Berlangganan",
-      "COLOR":"youtube"
+      "COLOR":"logo-youtube"
     },
     {
       "NET":"Facebook",
@@ -17,7 +17,7 @@
       "EnSU":"Like",
       "PoSU":"Gostar",
       "InSU":"Seperti",
-      "COLOR":"facebook"
+      "COLOR":"logo-facebook"
     },
     {
       "NET":"Twitter",
@@ -26,7 +26,7 @@
       "EnSU":"Follow",
       "PoSU":"Segue",
       "InSU":"Mengikuti",
-      "COLOR":"twitter"
+      "COLOR":"logo-twitter"
     },
     {
       "NET":"Instagram",
@@ -35,7 +35,7 @@
       "EnSU":"Follow",
       "PoSU":"Segue",
       "InSU":"Mengikuti",
-      "COLOR":"instagram"
+      "COLOR":"logo-instagram"
     },
     {
       "NET":"PlayStore",
