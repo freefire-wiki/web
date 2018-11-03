@@ -2,19 +2,36 @@
   "FOLLOW":[
     {
       "NET":"Youtube",
-      "FOLLOWS":131
+      "FOLLOWS":131,
+      "EsSUSCRIBETE":"Suscribete",
+      "EnSUSCRIBETE":"Suscribe",
+      "PoSUSCRIBETE":"Subscrever",
+      "InSUSCRIBETE":"Berlangganan"
     },
     {
       "NET":"Facebook",
-      "FOLLOWS":135
+      "FOLLOWS":135,
+      
+      "EsLIKE":"Me gusta",
+      "EnLIKE":"Like",
+      "PoLIKE":"Gostar",
+      "InLIKE":"Seperti"
     },
     {
       "NET":"Twitter",
-      "FOLLOWS":1
+      "FOLLOWS":1,
+      "EsSIGUEME":"Seguir",
+      "EnSIGUEME":"Follow",
+      "PoSIGUEME":"Segue",
+      "InSIGUEME":"Mengikuti"
     },
     {
       "NET":"Instagram",
-      "FOLLOWS":283
+      "FOLLOWS":283,
+      "EsSIGUEME":"Seguir",
+      "EnSIGUEME":"Follow",
+      "PoSIGUEME":"Segue",
+      "InSIGUEME":"Mengikuti"
     }
   ]
 }
