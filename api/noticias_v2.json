@@ -1,0 +1,47 @@
+{
+    "NOTICIAS":[
+        
+
+            
+{
+
+            "IMG":"https://res.cloudinary.com/dqqwhnotp/image/upload/v1541324428/sample.jpg",
+
+            "LINK":"nolink",
+
+            "EsTITULO":"MODO ZOMBIE EN CARRERA MORTAL 🏎 🔫 ",
+
+            "EsFECHA":"Octubre 30",
+
+            "EsINFO":"El modo estará abierto hasta el 5 de noviembre, al parecer es a todas horas. Entra al juego para saber tu horario",
+
+            "EnTITULO":"ZOMBIE modo na corrida MORTAL 🏎 🔫 ",
+
+            "EnFECHA":"Outubro 30",
+
+            "EnINFO":"O modo será aberto até 5 de novembro, aparentemente é todas as horas. Digite o jogo para saber sua agenda"
+
+        }, 
+
+
+{
+
+            "IMG":"https://res.cloudinary.com/dqqwhnotp/image/upload/v1541324428/sample.jpg",
+
+            "LINK":"https://youtu.be/OlDjX_n6cmc",
+
+            "EsTITULO":"NUEVO PASE ELITE NOVIEMBRE 2018",
+
+            "EsFECHA":"Octubre 29",
+
+            "EsINFO":"El nuevo pase de elite será con la temática musical, con toques de música retro",
+
+            "EnTITULO":"Nova ELITE Pass novembro 2018",
+
+            "EnFECHA":"Outubro 29",
+
+            "EnINFO":"A nova elite Pass será com a música tema, com toques de música retrô"
+
+        }
+    ]
+}
