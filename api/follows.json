@@ -3,48 +3,27 @@
     {
       "NET":"Youtube",
       "FOLLOWS":131,
-      "EsSU":"Suscribete",
-      "EnSU":"Suscribe",
-      "PoSU":"Subscrever",
-      "InSU":"Berlangganan",
-      "COLOR":"logo-youtube"
+      "PREMIO":"assets/imgs/premios/mascara.png"
     },
     {
       "NET":"Facebook",
       "FOLLOWS":135,
-      
-      "EsSU":"Me gusta",
-      "EnSU":"Like",
-      "PoSU":"Gostar",
-      "InSU":"Seperti",
-      "COLOR":"logo-facebook"
+      "PREMIO":"assets/imgs/premios/mascara_2.png"
     },
     {
       "NET":"Twitter",
       "FOLLOWS":1,
-      "EsSU":"Seguir",
-      "EnSU":"Follow",
-      "PoSU":"Segue",
-      "InSU":"Mengikuti",
-      "COLOR":"logo-twitter"
+      "PREMIO":"assets/imgs/premios/mascara_2.png"
     },
     {
       "NET":"Instagram",
       "FOLLOWS":283,
-      "EsSU":"Seguir",
-      "EnSU":"Follow",
-      "PoSU":"Segue",
-      "InSU":"Mengikuti",
-      "COLOR":"logo-instagram"
+      "PREMIO":"assets/imgs/premios/tabla.png"
     },
     {
       "NET":"PlayStore",
       "FOLLOWS":238,
-      "EsSU":"Calificar",
-      "EnSU":"Qualify",
-      "PoSU":"Qualificar",
-      "InSU":"Memenuhi syarat",
-      "COLOR":"star-half"
+      "PREMIO":"assets/imgs/premios/pase.png"
     }
   ]
 }
