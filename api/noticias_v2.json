@@ -1,6 +1,26 @@
 {
     "NOTICIAS":[        
-        {
+      {
+
+            "IMG":"https://res.cloudinary.com/dqqwhnotp/image/upload/q_60/v1541396408/n/IMG_20181104_233532_crop_1280x382.jpg",
+
+            "LINK":"nolink",
+
+            "EsTITULO":"NUEVA SKIN LEGENDARIA",
+
+            "EsFECHA":"Noviembre 5",
+
+            "EsINFO":"La nueva skin legendaria ya esta disponible en el lucky royale de armas, esta disponible para la Famas y el SKS",
+
+ 
+
+            "EnTITULO":"Novas skins lendárias",
+
+            "EnFECHA":"5 de novembro",
+
+            "EnINFO":"A lendária nova pele está agora disponível no Lucky Royale Arms, está disponível para a fama e SKS"
+
+        },   {
             "IMG":"https://res.cloudinary.com/dqqwhnotp/image/upload/v1541377437/n/Screenshot_2018-11-04-18-22-46-921_com.teslacoilsw.launcher.jpg",
             "LINK":"nolink",
             "EsTITULO":"POSIBLE EMOTE POR RECARGAS EN ALGUNAS REGIONES",
