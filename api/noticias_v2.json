@@ -1,6 +1,28 @@
 {
     "NOTICIAS":[        
-  {
+ 
+        {
+
+            "IMG":"https://res.cloudinary.com/dqqwhnotp/image/upload/v1541589314/n/Screenshot_2018-11-07-05-14-09-036_carlos.gasa.freefirewiki.jpg",
+
+            "LINK":"https://goo.gl/na2Ckg",
+
+            "EsTITULO":"Estadísticas oficiales de la mueva arma P90",
+
+            "EsFECHA":"Noviembre 7",
+
+            "EsINFO":"Ve a la sección de armas y checa la nueva arma que ya esta disponible!",
+
+ 
+
+            "EnTITULO":"Estatísticas oficiais da arma de movimento P90",
+
+            "EnFECHA":"7 de novembro",
+
+            "EnINFO":"Vá para a seção de armas e confira a nova arma que já está disponível!"
+
+        }, 
+        {
 
             "IMG":"https://res.cloudinary.com/dqqwhnotp/image/upload/v1541587360/n/Screenshot_2018-11-07-04-41-46-648_com.instagram.android.jpg",
 
