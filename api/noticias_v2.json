@@ -1,6 +1,27 @@
 {
     "NOTICIAS":[        
-     {
+  {
+
+            "IMG":"https://res.cloudinary.com/dqqwhnotp/image/upload/v1541587360/n/Screenshot_2018-11-07-04-41-46-648_com.instagram.android.jpg",
+
+            "LINK":"nolink",
+
+            "EsTITULO":"NUEVA MASCARA",
+
+            "EsFECHA":"Noviembre 7",
+
+            "EsINFO":"Esta mascara se ha visto ya en regiones de Asia, puede que este disponible en América en estos días",
+
+ 
+
+            "EnTITULO":"Nova máscara",
+
+            "EnFECHA":"7 de novembro",
+
+            "EnINFO":"Esta máscara já foi visto em regiões da Ásia, ele pode estar disponível na América nos dias de hoje"
+
+        },  
+        {
 
             "IMG":"https://res.cloudinary.com/dqqwhnotp/image/upload/v1541528481/n/Screenshot_2018-11-06-12-19-44-703_com.instagram.android.jpg",
 
