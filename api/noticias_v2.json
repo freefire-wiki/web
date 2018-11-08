@@ -1,7 +1,27 @@
 {
     "NOTICIAS":[        
  
-        {
+      {
+
+            "IMG":"https://res.cloudinary.com/dqqwhnotp/image/upload/v1541707781/n/IMG-20181108-WA0036.jpg",
+
+            "LINK":"nolink",
+
+            "EsTITULO":"NUEVAS SKINS 🤡",
+
+            "EsFECHA":"Noviembre 8",
+
+            "EsINFO":"Próximamente disponibles en América, skins de Joker para la Groza y la mochila",
+
+ 
+
+            "EnTITULO":"Novas skins 🤡",
+
+            "EnFECHA":"7 de novembro",
+
+            "EnINFO":"Logo disponível na América, peles Joker para Groza e mochila"
+
+        },   {
 
             "IMG":"https://res.cloudinary.com/dqqwhnotp/image/upload/v1541589314/n/Screenshot_2018-11-07-05-14-09-036_carlos.gasa.freefirewiki.jpg",
 
