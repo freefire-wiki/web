@@ -8,6 +8,13 @@
       "URL":"https://goo.gl/BE2zTN"
     },
     {
+      "NET":"PlayStore ⭐⭐⭐⭐⭐",
+      "FOLLOWS":1005,
+      "PREMIO":"assets/imgs/premios/pase.jpg",
+      "COLOR":"star-half",
+      "URL":"https://goo.gl/PwGCJc"
+    },
+    {
       "NET":"Facebook",
       "FOLLOWS":658,
       "PREMIO":"assets/imgs/premios/mascara_2.jpg",
@@ -27,13 +34,6 @@
       "PREMIO":"assets/imgs/premios/tabla.jpg",
       "COLOR":"logo-instagram",
       "URL":"https://goo.gl/bg9TR1"
-    },
-    {
-      "NET":"PlayStore 5 stars",
-      "FOLLOWS":1005,
-      "PREMIO":"assets/imgs/premios/pase.jpg",
-      "COLOR":"star-half",
-      "URL":"https://goo.gl/PwGCJc"
     }
   ]
 }
