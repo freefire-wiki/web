@@ -2,38 +2,38 @@
   "FOLLOW":[
     {
       "NET":"Youtube",
-      "FOLLOWS":1997,
+      "FOLLOWS":2081,
       "PREMIO":"assets/imgs/premios/mascara.jpg",
       "COLOR":"logo-youtube",
       "URL":"https://goo.gl/BE2zTN"
     },
     {
       "NET":"PlayStore ⭐⭐⭐⭐⭐",
-      "FOLLOWS":1197,
+      "FOLLOWS":1233,
       "PREMIO":"assets/imgs/premios/pase.jpg",
       "COLOR":"star-half",
       "URL":"https://goo.gl/PwGCJc"
     },
     {
       "NET":"Facebook",
-      "FOLLOWS":773,
+      "FOLLOWS":786,
       "PREMIO":"assets/imgs/premios/mascara_2.jpg",
       "COLOR":"logo-facebook",
       "URL":"https://goo.gl/45rft7"
     },
     {
-      "NET":"Twitter",
-      "FOLLOWS":79,
-      "PREMIO":"assets/imgs/premios/mascara_2.jpg",
-      "COLOR":"logo-twitter",
-      "URL":"https://goo.gl/j6ZKA6"
-    },
-    {
       "NET":"Instagram",
-      "FOLLOWS":727, 
+      "FOLLOWS":738, 
       "PREMIO":"assets/imgs/premios/tabla.jpg",
       "COLOR":"logo-instagram",
       "URL":"https://goo.gl/bg9TR1"
+    },
+    {
+      "NET":"Twitter",
+      "FOLLOWS":81,
+      "PREMIO":"assets/imgs/premios/mascara_2.jpg",
+      "COLOR":"logo-twitter",
+      "URL":"https://goo.gl/j6ZKA6"
     }
   ]
 }
