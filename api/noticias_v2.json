@@ -1,7 +1,27 @@
 {
     "NOTICIAS":[        
  
-      {
+     {
+
+            "IMG":"https://res.cloudinary.com/dqqwhnotp/image/upload/v1541813913/n/IMG-20181109-WA0026.jpg",
+
+            "LINK":"https://youtu.be/Bu8zFKw5XsI",
+
+            "EsTITULO":"VIDEO WIKI",
+
+            "EsFECHA":"Noviembre 9",
+
+            "EsINFO":"El canal de Kevinrd ha reaoizado un video de FreeFire Wiki, aquí el link 👇👇👇👇👇",
+
+ 
+
+            "EnTITULO":"Vídeo wiki",
+
+            "EnFECHA":"7 de novembro",
+
+            "EnINFO":"O canal KEVINRD tem reaoizado um vídeo de FreeFire wiki, aqui o link 👇👇👇👇👇"
+
+        },  {
 
             "IMG":"https://res.cloudinary.com/dqqwhnotp/image/upload/v1541707781/n/IMG-20181108-WA0036.jpg",
 
