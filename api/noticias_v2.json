@@ -1,6 +1,27 @@
 {
     "NOTICIAS":[        
- {
+        {
+
+            "IMG":"https://res.cloudinary.com/dqqwhnotp/image/upload/v1541977642/n/dab.jpg",
+
+            "LINK":"nolink",
+
+            "EsTITULO":"EMOTE *DAB* POXIAMAMENTE",
+
+            "EsFECHA":"Noviembre 11",
+
+            "EsINFO":"El emote de dab estara disponible en LuckyRoyale proxiamamente, al igual que el skin femenino nuevo",
+
+ 
+
+            "EnTITULO":"Emote *DAB* em breve",
+
+            "EnFECHA":"11 de novembro",
+
+            "EnINFO":"O dab emote estará disponível na LuckyRoyale proxiamamente, como a nova skin feminina"
+
+        },
+        {
 
             "IMG":"https://res.cloudinary.com/dqqwhnotp/image/upload/v1541968969/n/Screenshot_2018-11-11-14-41-52-347_com.miui.videoplayer.jpg",
 
