@@ -1,17 +1,24 @@
 {
   "GRACIAS":[
     {
-      "NOMBRE":"Carlos Galindo",
+      "NOMBRE":"CarlosGaSa10",
       "LINK":"https://www.carlosgasa.online",
       "DES":"Programador"
-    }, {
-
-"NOMBRE":"BrandonA17", 
-
-"LINK":"https://www.facebook.com/brandon.adalid.79", 
-
-"DES":"Memes" 
-
-} 
+    },
+    {
+      "NOMBRE":"chrisz19", 
+      "LINK":"https://www.instagram.com/chriszglez", 
+      "DES":"Ideas y comentarios" 
+    }, 
+    {
+      "NOMBRE":"BrandonA17", 
+      "LINK":"https://goo.gl/wNGSaK", 
+      "DES":"Memes" 
+    },
+    {
+      "NOMBRE":"Raamyy", 
+      "LINK":"https://goo.gl/6rTodz", 
+      "DES":"Youtuber" 
+    }
   ]
 }
