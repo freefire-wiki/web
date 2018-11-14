@@ -65,28 +65,6 @@
             "EnINFO":"Garena mostrou uma imagem de como será a nova máscara, muito semelhante à que foi dada no passe de elite # 1"
 
         },
-        
-        {
-
-            "IMG":"https://res.cloudinary.com/dqqwhnotp/image/upload/v1541977642/n/dab.jpg",
-
-            "LINK":"nolink",
-
-            "EsTITULO":"EMOTE *DAB* POXIAMAMENTE",
-
-            "EsFECHA":"Noviembre 11",
-
-            "EsINFO":"El emote de dab estara disponible en LuckyRoyale proxiamamente, al igual que el skin femenino nuevo",
-
- 
-
-            "EnTITULO":"Emote *DAB* em breve",
-
-            "EnFECHA":"11 de novembro",
-
-            "EnINFO":"O dab emote estará disponível na LuckyRoyale proxiamamente, como a nova skin feminina"
-
-        },
         {
 
             "IMG":"https://res.cloudinary.com/dqqwhnotp/image/upload/v1541707781/n/IMG-20181108-WA0036.jpg",
@@ -128,37 +106,6 @@
 
             "EnINFO":"Esta máscara já foi visto em regiões da Ásia, ele pode estar disponível na América nos dias de hoje"
 
-        },  
-        {
-
-            "IMG":"https://res.cloudinary.com/dqqwhnotp/image/upload/v1541528481/n/Screenshot_2018-11-06-12-19-44-703_com.instagram.android.jpg",
-
-            "LINK":"nolink",
-
-            "EsTITULO":"NUEVA SKIN MOCHILA Y ROPA",
-
-            "EsFECHA":"Noviembre 7",
-
-            "EsINFO":"Aún no se ha confirmado de que sea real, pero si es real puede valer una fortuna :v",
-
- 
-
-            "EnTITULO":"Nova mochila pele e roupas",
-
-            "EnFECHA":"7 de novembro",
-
-            "EnINFO":"Ainda não foi confirmado que é real, mas se é real, pode valer uma fortuna :V"
-
-        }, 
-        {
-            "IMG":"https://res.cloudinary.com/dqqwhnotp/image/upload/v1541388221/n/Screenshot_2018-11-04-21-20-17-852_com.instagram.android.jpg",
-            "LINK":"nolink",
-            "EsTITULO":"NUEVA SKIN DE MOTO 🛵 ",
-            "EsFECHA":"Noviembre 5",
-            "EsINFO":"En regiones de Indonesia ya se empieza a ver esta nueva moto, posiblemente este en América en los próximos días",
-            "EnTITULO":"Nova pele de MOTO 🛵",
-            "EnFECHA":"5 de novembro",
-            "EnINFO":"Nas regiões da Indonésia e você começa a ver esta nova moto, possivelmente isso na América nos próximos dias"
         }
     ]
 }
