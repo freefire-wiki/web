@@ -1,7 +1,27 @@
 {
     "NOTICIAS":[        
         
-        
+        {
+
+            "IMG":"https://res.cloudinary.com/dqqwhnotp/image/upload/v1542213895/n/Screenshot_2018-11-14-10-43-41-054_com.instagram.android.jpg",
+
+            "LINK":"nolink",
+
+            "EsTITULO":"NUEVOS LENTES GAMER",
+
+            "EsFECHA":"Noviembre 14",
+
+            "EsINFO":"Próximamente en la tienda de Free Fire, se comprara con diamantes",
+
+ 
+
+            "EnTITULO":"Novas lentes GAMER ",
+
+            "EnFECHA":"14 de novembro",
+
+            "EnINFO":"Logo na loja de fogo livre, ele será comprado com diamantes"
+
+        }, 
         
         {
 
