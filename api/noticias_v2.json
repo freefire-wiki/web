@@ -1,6 +1,28 @@
 {
-    "NOTICIAS":[        
+    "NOTICIAS":[    
         
+        
+        {
+
+            "IMG":"https://scontent-dfw5-1.cdninstagram.com/vp/2e293a6bce38b11297ad812a25768d19/5C779894/t51.2885-15/e35/46256430_2273224439563663_4042607320762436447_n.jpg",
+
+            "LINK":"nolink",
+
+            "EsTITULO":"EMOTE X 8K ORO",
+
+            "EsFECHA":"Noviembre 15",
+
+            "EsINFO":"Ya esta disponible el emote de saludo para la region de America, cuesta 8000 de oro y lo pueden conseguir en la tienda",
+
+ 
+
+            "EnTITULO":"EMOTE X 8K ORO",
+
+            "EnFECHA":"15/nov/2018",
+
+            "EnINFO":"O emote de saudação já está disponível para a região da América, custa 8000 de ouro e você pode obtê-lo na loja"
+
+        }, 
         {
 
             "IMG":"https://res.cloudinary.com/dqqwhnotp/image/upload/v1542256376/n/sorteo33333.jpg",
