@@ -1,6 +1,26 @@
 {
     "NOTICIAS":[    
-        {
+      {
+
+            "IMG":"https://res.cloudinary.com/dvfegz9ob/image/upload/v1542484269/Screenshot_2018-11-17-13-48-47-168_com.dts.freefireth.jpg",
+
+            "LINK":"nolink",
+
+            "EsTITULO":"PRIMERA SKIN DE LA MP40",
+
+            "EsFECHA":"Noviembre 17",
+
+            "EsINFO":"35 💎 cuesta la nueva primera skin de la mp40, disponible en la tienda de Free Fire",
+
+ 
+
+            "EnTITULO":"First skin to MP40",
+
+            "EnFECHA":"16 de novembro",
+
+            "EnINFO":"35 💎 custos a nova primeira pele do MP40, disponível na loja Free Fire"
+
+        },   {
 
             "IMG":"https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/46339259_199430630991468_5831877259329273856_n.png?_nc_cat=105&_nc_ht=scontent-dfw5-1.xx&oh=58f1fe9a71ce3b8cb2bdeb986132a5fb&oe=5C6798E9",
 
