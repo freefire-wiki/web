@@ -1,6 +1,26 @@
 {
     "NOTICIAS":[    
-      {
+    {
+
+            "IMG":"https://res.cloudinary.com/dvfegz9ob/image/upload/v1542569464/1559719f3e4cd359f8594c09ad3c5417.jpg",
+
+            "LINK":"nolink",
+
+            "EsTITULO":"TIENDA DEL MISTERI",
+
+            "EsFECHA":"Noviembre 18",
+
+            "EsINFO":"Se ha revelado una skin en la que estará incluida en una tienda que se abrira próximamente",
+
+ 
+
+            "EnTITULO":"MYSTERY SHOP",
+
+            "EnFECHA":"18 de novembro",
+
+            "EnINFO":"UMA pele foi revelada em que será incluído em uma loja que vai abrir em breve"
+
+        },   {
 
             "IMG":"https://res.cloudinary.com/dvfegz9ob/image/upload/v1542484269/Screenshot_2018-11-17-13-48-47-168_com.dts.freefireth.jpg",
 
