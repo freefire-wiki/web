@@ -1,6 +1,26 @@
 {
     "NOTICIAS":[    
-    {
+  {
+
+            "IMG":"https://res.cloudinary.com/dvfegz9ob/image/upload/v1542652387/Screenshot_2018-11-19-12-31-52-771_com.instagram.android.jpg",
+
+            "LINK":"nolink",
+
+            "EsTITULO":"Nuevas características en el juego",
+
+            "EsFECHA":"Noviembre 19",
+
+            "EsINFO":"Nuestro moderador oficial r4boy ya ha comentado que se integraran algunas nuevas características al juego, quizá en la próxima actualización de navidad",
+
+ 
+
+            "EnTITULO":"Novos recursos no jogo",
+
+            "EnFECHA":"19 de novembro",
+
+            "EnINFO":"Nosso moderador oficial R4boy já comentou que alguns novos recursos serão integrados no jogo, talvez na próxima atualização de Natal"
+
+        },   {
 
             "IMG":"https://res.cloudinary.com/dvfegz9ob/image/upload/v1542569464/1559719f3e4cd359f8594c09ad3c5417.jpg",
 
