@@ -1,6 +1,26 @@
 {
     "NOTICIAS":[    
- {
+{
+
+            "IMG":"https://res.cloudinary.com/dvfegz9ob/image/upload/v1542774431/Screenshot_2018-11-20-22-26-02-327_com.instagram.android.jpg",
+
+            "LINK":"https://goo.gl/na2Ckg",
+
+            "EsTITULO":"NUEVA ROPA",
+
+            "EsFECHA":"Noviembre 20",
+
+            "EsINFO":"Un nuevo de conjunto de ropa se ha agregado en amgunas regiones, próximamente en América ",
+
+ 
+
+            "EnTITULO":"Roupa nova ",
+
+            "EnFECHA":"19 de novembro",
+
+            "EnINFO":"UM novo conjunto de roupas foi adicionado em regiões de Amgunas, em breve na América"
+
+        },  {
 
             "IMG":"https://res.cloudinary.com/dvfegz9ob/image/upload/v1542740541/Screenshot_2018-11-20-12-59-55-096_com.instagram.android.jpg",
 
