@@ -1,5 +1,33 @@
 {
   "NOTICIAS":[
-  
+  {
+
+        "IMG":"https://res.cloudinary.com/dvfegz9ob/image/upload/v1542962804/IMG_20181123_024539.jpg",
+
+        "LINK":"nolink",
+
+        "FECHA":"23/11/2018",
+
+        "EsTITULO":"Nuevos trajes de diabla y ángel ",
+
+        "EsINFO":"Nuevos trajes próximamente a la venta en la tienda de Free Fire ",
+
+        "EnTITULO":"New outfits of devil and Angel ",
+
+        "EnINFO":"New outfits coming soon for sale at Free Fire Store  ",
+
+        "PoTITULO":"Trajes novos do diabo e do anjo ",
+
+        "PoINFO":"Novos trajes em breve para venda em Free Fire Store ",
+
+        "InTITULO":"Pakaian baru setan dan malaikat ",
+
+        "InINFO":"Pakaian baru segera dijual di toko api gratis ",
+
+        "ThTITULO":"ชุดใหม่ของปีศาจและเทวดา ",
+
+        "ThINFO":"ชุดใหม่เร็วๆนี้สำหรับการขายที่ร้านไฟฟรี "
+
+      }
   ]
 }
