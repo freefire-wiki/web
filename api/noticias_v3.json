@@ -1,6 +1,34 @@
 {
   "NOTICIAS":[
-  {
+{
+
+        "IMG":"https://res.cloudinary.com/dvfegz9ob/image/upload/v1543057771/Screenshot_2018-11-24-05-08-23-693_com.instagram.android.jpg",
+
+        "LINK":"https://youtu.be/jymy4EeWwUM",
+
+        "FECHA":"24/11/2018 ",
+
+        "EsTITULO":"Nuevo traje de realidad virtual ",
+
+        "EsINFO":"Este nuevo traje estará disponible en los próximos días, únicamente con diamantes ",
+
+        "EnTITULO":"New virtual reality suit ",
+
+        "EnINFO":"This new suit will be available in the coming days, only with diamonds  ",
+
+        "PoTITULO":"Novo fato de realidade virtual",
+
+        "PoINFO":"Este novo fato estará disponível nos próximos dias, apenas com diamantes ",
+
+        "InTITULO":"Baru realitas virtual setelan",
+
+        "InINFO":"Setelan ini baru akan tersedia dalam beberapa hari mendatang, hanya dengan berlian ",
+
+        "ThTITULO":"ใหม่เสมือนจริงสูท",
+
+        "ThINFO":"ชุดใหม่นี้จะพร้อมใช้งานในวันที่จะมาเท่านั้นที่มีเพชร "
+
+      },  {
 
         "IMG":"https://res.cloudinary.com/dvfegz9ob/image/upload/v1542962804/IMG_20181123_024539.jpg",
 
