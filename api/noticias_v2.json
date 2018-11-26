@@ -1,6 +1,26 @@
 {
     "NOTICIAS":[    
-{
+
+        {
+
+        "IMG":"https://res.cloudinary.com/dvfegz9ob/image/upload/v1543274672/Screenshot_2018-11-26-17-23-34-649_com.google.android.youtube.jpg",
+
+        "LINK":"nolink",
+
+        "EsFECHA":"26/11/2018 ",
+
+ "EnFECHA":"26/11/2018 ",
+
+        "EsTITULO":"Nuevo skin para RoyaleOro",
+
+"EsINFO":"Este nuevo traje será añadido al juego en los próximos días, se podrá ganar en el Lucky Royale de Oro",
+
+        "EnTITULO":"Nova pele para RoyaleOro",
+
+"EnINFO":"Este novo equipamento será adicionado ao jogo nos próximos dias, você será capaz de ganhar no Golden Lucky Royale"    
+
+      },
+        {
 
         "IMG":"https://res.cloudinary.com/dvfegz9ob/image/upload/v1543087568/Screenshot_2018-11-24-13-25-12-242_com.instagram.android.jpg",
 
