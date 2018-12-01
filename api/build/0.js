@@ -1,1 +1,188 @@
-webpackJsonp([0],{246:function(l,n,u){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var t=u(0),a=(u(3),u(113),u(114)),o=u(51),e=function(){function l(l,n,u,t){var a=this;this.translateService=l,this.http=n,this.navCtrl=u,this.navParams=t,n.get("https://www.freefire.wiki/api/follows.json",{}).toPromise().then(function(l){a.nuevas=l.FOLLOW,console.log(l)})}return l.prototype.ionViewDidLoad=function(){console.log("ionViewDidLoad GratisPage")},l.prototype.link=function(l){window.open(l,"_blank")},l.prototype.idioma=function(l){this.translateService.setDefaultLang(l),this.translateService.use(l)},l}(),i=function(){return function(){}}(),_=function(){return function(){}}(),s=function(){return function(){}}(),c=u(194),r=u(195),d=u(196),g=u(197),b=u(198),p=u(199),k=u(200),f=u(201),v=u(203),m=u(41),h=u(1),C=u(118),x=u(119),O=u(117),y=t._1({encapsulation:2,styles:[],data:{}});function L(l){return t._25(0,[(l()(),t._23(-1,null,["\n"])),(l()(),t._3(1,0,null,null,4,"div",[["class","progress-outer"]],null,null,null,null,null)),(l()(),t._23(-1,null,["\n    "])),(l()(),t._3(3,0,null,null,1,"div",[["class","progress-inner"]],[[4,"width",null]],null,null,null,null)),(l()(),t._23(4,null,["\n        ","\n    "])),(l()(),t._23(-1,null,["\n"]))],null,function(l,n){var u=n.component;l(n,3,0,u.progress+"%"),l(n,4,0,u.progress)})}var D=u(39),w=u(20),E=u(40),I=u(120),P=u(5),M=u(14),j=u(38),F=u(8),S=u(21),T=t._1({encapsulation:2,styles:[],data:{}});function $(l){return t._25(0,[(l()(),t._3(0,0,null,null,1,"div",[["class","toolbar-background"]],null,null,null,null,null)),t._2(1,278528,null,0,M.g,[t.s,t.t,t.k,t.E],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),t._3(2,0,null,null,8,"button",[["class","back-button"],["ion-button","bar-button"]],[[8,"hidden",0]],[[null,"click"]],function(l,n,u){var t=!0;"click"===n&&(t=!1!==l.component.backButtonClick(u)&&t);return t},D.b,D.a)),t._2(3,278528,null,0,M.g,[t.s,t.t,t.k,t.E],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),t._2(4,1097728,null,0,w.a,[[8,"bar-button"],h.a,t.k,t.D],null,null),(l()(),t._3(5,0,null,0,2,"ion-icon",[["class","back-button-icon"],["role","img"]],[[2,"hide",null]],null,null,null,null)),t._2(6,278528,null,0,M.g,[t.s,t.t,t.k,t.E],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),t._2(7,147456,null,0,E.a,[h.a,t.k,t.D],{name:[0,"name"]},null),(l()(),t._3(8,0,null,0,2,"span",[["class","back-button-text"]],null,null,null,null,null)),t._2(9,278528,null,0,M.g,[t.s,t.t,t.k,t.E],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),t._23(10,null,["",""])),t._16(null,0),t._16(null,1),t._16(null,2),(l()(),t._3(14,0,null,null,2,"div",[["class","toolbar-content"]],null,null,null,null,null)),t._2(15,278528,null,0,M.g,[t.s,t.t,t.k,t.E],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),t._16(null,3)],function(l,n){var u=n.component;l(n,1,0,"toolbar-background","toolbar-background-"+u._mode);l(n,3,0,"back-button","back-button-"+u._mode);l(n,6,0,"back-button-icon","back-button-icon-"+u._mode),l(n,7,0,u._bbIcon);l(n,9,0,"back-button-text","back-button-text-"+u._mode);l(n,15,0,"toolbar-content","toolbar-content-"+u._mode)},function(l,n){var u=n.component;l(n,2,0,u._hideBb),l(n,5,0,t._17(n,7)._hidden),l(n,10,0,u._backText)})}var W=u(115),R=u(52),J=t._1({encapsulation:2,styles:[],data:{}});function N(l){return t._25(2,[(l()(),t._3(0,0,null,null,2,"div",[["class","toolbar-title"]],null,null,null,null,null)),t._2(1,278528,null,0,M.g,[t.s,t.t,t.k,t.E],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),t._16(null,0)],function(l,n){l(n,1,0,"toolbar-title","toolbar-title-"+n.component._mode)},null)}var U=u(22),V=u(4),Y=u(9),B=u(34),G=t._1({encapsulation:2,styles:[],data:{}});function Z(l){return t._25(2,[t._21(402653184,1,{_fixedContent:0}),t._21(402653184,2,{_scrollContent:0}),(l()(),t._3(2,0,[[1,0],["fixedContent",1]],null,1,"div",[["class","fixed-content"]],null,null,null,null,null)),t._16(null,0),(l()(),t._3(4,0,[[2,0],["scrollContent",1]],null,1,"div",[["class","scroll-content"]],null,null,null,null,null)),t._16(null,1),t._16(null,2)],null,null)}var q=u(202),z=u(18),A=u(15),H=u(42),K=u(74),Q=u(17),X=u(116),ll=u(13),nl=t._1({encapsulation:2,styles:[],data:{}});function ul(l){return t._25(0,[(l()(),t._3(0,0,null,null,1,"div",[["class","select-placeholder select-text"]],null,null,null,null,null)),(l()(),t._23(1,null,["",""]))],null,function(l,n){l(n,1,0,n.component.placeholder)})}function tl(l){return t._25(0,[(l()(),t._3(0,0,null,null,1,"div",[["class","select-text"]],null,null,null,null,null)),(l()(),t._23(1,null,["",""]))],null,function(l,n){var u=n.component;l(n,1,0,u.selectedText||u._text)})}function al(l){return t._25(0,[(l()(),t.Y(16777216,null,null,1,null,ul)),t._2(1,16384,null,0,M.i,[t.M,t.J],{ngIf:[0,"ngIf"]},null),(l()(),t.Y(16777216,null,null,1,null,tl)),t._2(3,16384,null,0,M.i,[t.M,t.J],{ngIf:[0,"ngIf"]},null),(l()(),t._3(4,0,null,null,1,"div",[["class","select-icon"]],null,null,null,null,null)),(l()(),t._3(5,0,null,null,0,"div",[["class","select-icon-inner"]],null,null,null,null,null)),(l()(),t._3(6,0,null,null,1,"button",[["aria-haspopup","true"],["class","item-cover"],["ion-button","item-cover"],["type","button"]],[[8,"id",0],[1,"aria-labelledby",0],[1,"aria-disabled",0]],null,null,D.b,D.a)),t._2(7,1097728,null,0,w.a,[[8,"item-cover"],h.a,t.k,t.D],null,null)],function(l,n){var u=n.component;l(n,1,0,!u._text),l(n,3,0,u._text)},function(l,n){var u=n.component;l(n,6,0,u.id,u._labelId,u._disabled)})}var ol=u(75),el=u(10),il=t._1({encapsulation:2,styles:[],data:{}});function _l(l){return t._25(0,[(l()(),t._3(0,0,null,null,39,"div",[["class","premio"]],null,null,null,null,null)),(l()(),t._23(-1,null,["\n      "])),(l()(),t._3(2,0,null,null,2,"ion-label",[["stacked",""],["text-center",""]],null,null,null,null,null)),t._2(3,16384,null,0,m.a,[h.a,t.k,t.D,[8,null],[8,""],[8,null],[8,null]],null,null),(l()(),t._23(4,null,["",""])),(l()(),t._23(-1,null,["\n      "])),(l()(),t._3(6,0,null,null,32,"ion-grid",[["class","grid"]],null,null,null,null,null)),t._2(7,16384,null,0,C.a,[],null,null),(l()(),t._23(-1,null,["\n        "])),(l()(),t._3(9,0,null,null,28,"ion-row",[["class","row"]],null,null,null,null,null)),t._2(10,16384,null,0,x.a,[],null,null),(l()(),t._23(-1,null,["\n          "])),(l()(),t._3(12,0,null,null,7,"ion-col",[["class","col"],["col-6",""]],null,null,null,null,null)),t._2(13,16384,null,0,O.a,[],null,null),(l()(),t._23(-1,null,["\n              "])),(l()(),t._3(15,0,null,null,0,"br",[],null,null,null,null,null)),(l()(),t._23(-1,null,["\n              "])),(l()(),t._3(17,0,null,null,1,"progress-bar",[],null,null,null,L,y)),t._2(18,49152,null,0,i,[],{progress:[0,"progress"]},null),(l()(),t._23(-1,null,["\n          "])),(l()(),t._23(-1,null,["\n          "])),(l()(),t._3(21,0,null,null,4,"ion-col",[["class","col"],["col-3",""]],null,null,null,null,null)),t._2(22,16384,null,0,O.a,[],null,null),(l()(),t._23(-1,null,["\n            "])),(l()(),t._3(24,0,null,null,0,"img",[],[[8,"src",4]],null,null,null,null)),(l()(),t._23(-1,null,["\n          "])),(l()(),t._23(-1,null,["\n          "])),(l()(),t._3(27,0,null,null,9,"ion-col",[["class","col"],["col-3",""],["text-center",""]],null,null,null,null,null)),t._2(28,16384,null,0,O.a,[],null,null),(l()(),t._23(-1,null,["\n              "])),(l()(),t._3(30,0,null,null,5,"button",[["icon-end",""],["ion-button",""],["mini",""]],null,[[null,"click"]],function(l,n,u){var t=!0;"click"===n&&(t=!1!==l.component.link(l.context.$implicit.URL)&&t);return t},D.b,D.a)),t._2(31,1097728,null,0,w.a,[[8,""],h.a,t.k,t.D],{color:[0,"color"]},null),(l()(),t._23(32,0,["\n                ","\n                "])),(l()(),t._3(33,0,null,0,1,"ion-icon",[["role","img"]],[[2,"hide",null]],null,null,null,null)),t._2(34,147456,null,0,E.a,[h.a,t.k,t.D],{name:[0,"name"]},null),(l()(),t._23(-1,0,["\n              "])),(l()(),t._23(-1,null,["\n          "])),(l()(),t._23(-1,null,["\n        "])),(l()(),t._23(-1,null,["\n      "])),(l()(),t._23(-1,null,["\n  "]))],function(l,n){l(n,18,0,100*n.context.$implicit.FOLLOWS/5e3),l(n,31,0,n.context.$implicit.COLOR),l(n,34,0,n.context.$implicit.COLOR)},function(l,n){l(n,4,0,n.context.$implicit.NET),l(n,24,0,n.context.$implicit.PREMIO),l(n,32,0,n.context.$implicit.FOLLOWS),l(n,33,0,t._17(n,34)._hidden)})}function sl(l){return t._25(0,[(l()(),t._23(-1,null,["\n"])),(l()(),t._3(1,0,null,null,11,"ion-header",[],null,null,null,null,null)),t._2(2,16384,null,0,I.a,[h.a,t.k,t.D,[2,P.a]],null,null),(l()(),t._23(-1,null,["\n\n  "])),(l()(),t._3(4,0,null,null,7,"ion-navbar",[["class","toolbar"],["color","lengua"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,$,T)),t._2(5,49152,null,0,j.a,[F.a,[2,P.a],[2,S.a],h.a,t.k,t.D],{color:[0,"color"]},null),(l()(),t._23(-1,3,["\n    "])),(l()(),t._3(7,0,null,3,3,"ion-title",[],null,null,null,N,J)),t._2(8,49152,null,0,W.a,[h.a,t.k,t.D,[2,R.a],[2,j.a]],null,null),(l()(),t._23(9,0,["",""])),t._18(131072,o.i,[o.j,t.g]),(l()(),t._23(-1,3,["\n  "])),(l()(),t._23(-1,null,["\n\n"])),(l()(),t._23(-1,null,["\n\n\n"])),(l()(),t._3(14,0,null,null,46,"ion-content",[["padding",""],["style","background-color:black"]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,Z,G)),t._2(15,4374528,null,0,U.a,[h.a,V.a,Y.a,t.k,t.D,F.a,B.a,t.x,[2,P.a],[2,S.a]],null,null),(l()(),t._23(-1,1,["\n  "])),(l()(),t._3(17,0,null,1,35,"ion-item",[["class","item item-block"]],null,null,null,q.b,q.a)),t._2(18,1097728,null,3,z.a,[A.a,h.a,t.k,t.D,[2,H.a]],null,null),t._21(335544320,1,{contentLabel:0}),t._21(603979776,2,{_buttons:1}),t._21(603979776,3,{_icons:1}),t._2(22,16384,null,0,K.a,[],null,null),(l()(),t._23(-1,2,["\n    "])),(l()(),t._3(24,0,null,1,2,"ion-label",[],null,null,null,null,null)),t._2(25,16384,[[1,4]],0,m.a,[h.a,t.k,t.D,[8,null],[8,null],[8,null],[8,null]],null,null),(l()(),t._23(-1,null,["Language"])),(l()(),t._23(-1,2,["\n    "])),(l()(),t._3(28,0,null,3,23,"ion-select",[],[[2,"select-disabled",null],[2,"ng-untouched",null],[2,"ng-touched",null],[2,"ng-pristine",null],[2,"ng-dirty",null],[2,"ng-valid",null],[2,"ng-invalid",null],[2,"ng-pending",null]],[[null,"ngModelChange"],[null,"ionChange"],[null,"click"],[null,"keyup.space"]],function(l,n,u){var a=!0,o=l.component;"click"===n&&(a=!1!==t._17(l,29)._click(u)&&a);"keyup.space"===n&&(a=!1!==t._17(l,29)._keyup()&&a);"ngModelChange"===n&&(a=!1!==(o.id=u)&&a);"ionChange"===n&&(a=!1!==o.idioma(o.id)&&a);return a},al,nl)),t._2(29,1228800,null,1,X.a,[F.a,A.a,h.a,t.k,t.D,[2,z.a],ll.a],null,{ionChange:"ionChange"}),t._21(603979776,4,{options:1}),t._20(1024,null,Q.e,function(l){return[l]},[X.a]),t._2(32,671744,null,0,Q.h,[[8,null],[8,null],[8,null],[2,Q.e]],{model:[0,"model"]},{update:"ngModelChange"}),t._20(2048,null,Q.f,null,[Q.h]),t._2(34,16384,null,0,Q.g,[Q.f],null,null),(l()(),t._23(-1,null,["\n      "])),(l()(),t._3(36,0,null,null,2,"ion-option",[["value","es"]],null,null,null,null,null)),t._2(37,16384,[[4,4]],0,ol.a,[t.k],{value:[0,"value"]},null),(l()(),t._23(-1,null,["Español"])),(l()(),t._23(-1,null,["\n      "])),(l()(),t._3(40,0,null,null,2,"ion-option",[["value","en"]],null,null,null,null,null)),t._2(41,16384,[[4,4]],0,ol.a,[t.k],{value:[0,"value"]},null),(l()(),t._23(-1,null,["English"])),(l()(),t._23(-1,null,["\n      "])),(l()(),t._3(44,0,null,null,2,"ion-option",[["value","in"]],null,null,null,null,null)),t._2(45,16384,[[4,4]],0,ol.a,[t.k],{value:[0,"value"]},null),(l()(),t._23(-1,null,["Indonesian"])),(l()(),t._23(-1,null,["\n      "])),(l()(),t._3(48,0,null,null,2,"ion-option",[["value","po"]],null,null,null,null,null)),t._2(49,16384,[[4,4]],0,ol.a,[t.k],{value:[0,"value"]},null),(l()(),t._23(-1,null,["Portugues"])),(l()(),t._23(-1,null,["\n    "])),(l()(),t._23(-1,2,["\n  "])),(l()(),t._23(-1,1,["\n  "])),(l()(),t._3(54,0,null,1,2,"p",[["text-center",""]],null,null,null,null,null)),(l()(),t._23(55,null,["\n      ","\n  "])),t._18(131072,o.i,[o.j,t.g]),(l()(),t._23(-1,1,["\n  "])),(l()(),t.Y(16777216,null,1,1,null,_l)),t._2(59,802816,null,0,M.h,[t.M,t.J,t.s],{ngForOf:[0,"ngForOf"]},null),(l()(),t._23(-1,1,["\n  \n"])),(l()(),t._23(-1,null,["\n"]))],function(l,n){var u=n.component;l(n,5,0,"lengua"),l(n,32,0,u.id);l(n,37,0,"es");l(n,41,0,"en");l(n,45,0,"in");l(n,49,0,"po"),l(n,59,0,u.nuevas)},function(l,n){l(n,4,0,t._17(n,5)._hidden,t._17(n,5)._sbPadding),l(n,9,0,t._24(n,9,0,t._17(n,10).transform("FOLLOWS.TITULO"))),l(n,14,0,t._17(n,15).statusbarPadding,t._17(n,15)._hasRefresher),l(n,28,0,t._17(n,29)._disabled,t._17(n,34).ngClassUntouched,t._17(n,34).ngClassTouched,t._17(n,34).ngClassPristine,t._17(n,34).ngClassDirty,t._17(n,34).ngClassValid,t._17(n,34).ngClassInvalid,t._17(n,34).ngClassPending),l(n,55,0,t._24(n,55,0,t._17(n,56).transform("FOLLOWS.CONTENIDO")))})}var cl=t.Z("page-gratis",e,function(l){return t._25(0,[(l()(),t._3(0,0,null,null,1,"page-gratis",[],null,null,null,sl,il)),t._2(1,49152,null,0,e,[o.j,a.c,S.a,el.a],null,null)],null,null)},{},{},[]),rl=u(121),dl=u(35);u.d(n,"GratisPageModuleNgFactory",function(){return gl});var gl=t._0(s,[],function(l){return t._14([t._15(512,t.i,t.W,[[8,[c.a,r.a,d.a,g.a,b.a,p.a,k.a,f.a,v.a,cl]],[3,t.i],t.v]),t._15(4608,M.k,M.j,[t.u,[2,M.s]]),t._15(4608,Q.k,Q.k,[]),t._15(4608,Q.c,Q.c,[]),t._15(512,M.b,M.b,[]),t._15(512,Q.j,Q.j,[]),t._15(512,Q.d,Q.d,[]),t._15(512,Q.i,Q.i,[]),t._15(512,rl.a,rl.a,[]),t._15(512,rl.b,rl.b,[]),t._15(512,o.g,o.g,[]),t._15(512,_,_,[]),t._15(512,s,s,[]),t._15(256,dl.a,e,[])])})}});
+webpackJsonp([0],{
+
+/***/ 286:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "GratisPageModule", function() { return GratisPageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(101);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__gratis__ = __webpack_require__(287);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_components_module__ = __webpack_require__(288);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__ngx_translate_core__ = __webpack_require__(102);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+
+var GratisPageModule = /** @class */ (function () {
+    function GratisPageModule() {
+    }
+    GratisPageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* NgModule */])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_2__gratis__["a" /* GratisPage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["d" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_2__gratis__["a" /* GratisPage */]),
+                __WEBPACK_IMPORTED_MODULE_4__ngx_translate_core__["b" /* TranslateModule */],
+                __WEBPACK_IMPORTED_MODULE_3__components_components_module__["a" /* ComponentsModule */]
+            ],
+        })
+    ], GratisPageModule);
+    return GratisPageModule;
+}());
+
+//# sourceMappingURL=gratis.module.js.map
+
+/***/ }),
+
+/***/ 287:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return GratisPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(101);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_common_http__ = __webpack_require__(203);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__ngx_translate_core__ = __webpack_require__(102);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+/**
+ * Generated class for the GratisPage page.
+ *
+ * See https://ionicframework.com/docs/components/#navigation for more info on
+ * Ionic pages and navigation.
+ */
+var GratisPage = /** @class */ (function () {
+    function GratisPage(translateService, http, navCtrl, navParams) {
+        var _this = this;
+        this.translateService = translateService;
+        this.http = http;
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+        http.get('https://www.freefire.wiki/api' + '/follows.json', {})
+            .toPromise()
+            .then(function (response) {
+            _this.nuevas = response.FOLLOW;
+            console.log(response);
+        });
+    }
+    GratisPage.prototype.ionViewDidLoad = function () {
+        console.log('ionViewDidLoad GratisPage');
+    };
+    GratisPage.prototype.link = function (link) {
+        window.open(link, "_blank");
+    };
+    GratisPage.prototype.idioma = function (id) {
+        //Language
+        this.translateService.setDefaultLang(id);
+        this.translateService.use(id);
+    };
+    GratisPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'page-gratis',template:/*ion-inline-start:"/home/carlos/Escritorio/Diamantes/src/pages/gratis/gratis.html"*/`<!--\n  Generated template for the FollowersModalPage page.\n\n  See http://ionicframework.com/docs/components/#navigation for more info on\n  Ionic pages and navigation.\n\n  5000    100\n  2500     50\n  \n\n\n-->\n<ion-header>\n\n  <ion-navbar color="lengua">\n    <ion-title>Diamante Wiki</ion-title>\n  </ion-navbar>\n\n</ion-header>\n\n\n<ion-content padding style="background-color:black">\n  <ion-item>\n    <ion-label>Language</ion-label>\n    <ion-select [(ngModel)]="id" (ionChange)="idioma(id)">\n      <ion-option value="es">Español</ion-option>\n      <ion-option value="en">English</ion-option>\n      <ion-option value="in">Indonesian</ion-option>\n      <ion-option value="po">Portugues</ion-option>\n      <ion-option value="th">ไทย</ion-option>\n    </ion-select>\n  </ion-item>\n  <p text-center>\n      {{\'FOLLOWS.CONTENIDO\'|translate}}\n  </p>\n\n  <ion-card *ngFor="let item of nuevas" >\n    <ion-label stacked text-center>{{item.NET}}</ion-label>\n    <div align="center">\n      <img [src]=item.PREMIO>\n      <progress-bar [progress]="(item.FOLLOWS*100)/item.META"></progress-bar>\n    </div>\n    \n    <button ion-button [color]=item.COLOR block icon-end (click)="link(item.URL)">\n      {{item.FOLLOWS}}/{{item.META}}\n      <ion-icon [name]=item.COLOR></ion-icon>\n    </button>\n  </ion-card>\n  \n</ion-content>\n`/*ion-inline-end:"/home/carlos/Escritorio/Diamantes/src/pages/gratis/gratis.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_3__ngx_translate_core__["c" /* TranslateService */], __WEBPACK_IMPORTED_MODULE_2__angular_common_http__["a" /* HttpClient */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["e" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* NavParams */]])
+    ], GratisPage);
+    return GratisPage;
+}());
+
+//# sourceMappingURL=gratis.js.map
+
+/***/ }),
+
+/***/ 288:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ComponentsModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__progress_bar_progress_bar__ = __webpack_require__(289);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+var ComponentsModule = /** @class */ (function () {
+    function ComponentsModule() {
+    }
+    ComponentsModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* NgModule */])({
+            declarations: [__WEBPACK_IMPORTED_MODULE_1__progress_bar_progress_bar__["a" /* ProgressBarComponent */]],
+            imports: [],
+            exports: [__WEBPACK_IMPORTED_MODULE_1__progress_bar_progress_bar__["a" /* ProgressBarComponent */]]
+        })
+    ], ComponentsModule);
+    return ComponentsModule;
+}());
+
+//# sourceMappingURL=components.module.js.map
+
+/***/ }),
+
+/***/ 289:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ProgressBarComponent; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+/**
+ * Generated class for the ProgressBarComponent component.
+ *
+ * See https://angular.io/api/core/Component for more info on Angular
+ * Components.
+ */
+var ProgressBarComponent = /** @class */ (function () {
+    function ProgressBarComponent() {
+    }
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["D" /* Input */])('progress'),
+        __metadata("design:type", Object)
+    ], ProgressBarComponent.prototype, "progress", void 0);
+    ProgressBarComponent = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'progress-bar',template:/*ion-inline-start:"/home/carlos/Escritorio/Diamantes/src/components/progress-bar/progress-bar.html"*/`<!-- Generated template for the ProgressBarComponent component -->\n<div class="progress-outer">\n    <div class="progress-inner" [style.width]="progress + \'%\'">\n        {{progress}}\n    </div>\n</div>`/*ion-inline-end:"/home/carlos/Escritorio/Diamantes/src/components/progress-bar/progress-bar.html"*/
+        }),
+        __metadata("design:paramtypes", [])
+    ], ProgressBarComponent);
+    return ProgressBarComponent;
+}());
+
+//# sourceMappingURL=progress-bar.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=0.js.map
