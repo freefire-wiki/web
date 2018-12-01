@@ -3,30 +3,34 @@
     {
       "NET":"Youtube COMPETED - 2 Mascaras",
       "FOLLOWS":5000,
+      "META":45000,
       "PREMIO":"assets/imgs/premios/mascara.jpg",
       "COLOR":"logo-youtube",
-      "URL":"https://goo.gl/BE2zTN"
+      "URL":"https://www.youtube.com/c/FreeFireWiki"
     },
     {
       "NET":"Facebook 1/12/2018",
       "FOLLOWS":5000,
+      "META":20000,
       "PREMIO":"assets/imgs/premios/mascara.jpg",
       "COLOR":"logo-facebook",
-      "URL":"https://goo.gl/45rft7"
+      "URL":"https://www.facebook.com/FreeFireWiki/"
     },
     {
       "NET":"Instagram 1 MASCARA",
       "FOLLOWS":5000,
+      "META":20000,
       "PREMIO":"assets/imgs/premios/mascara.jpg",
       "COLOR":"logo-instagram",
-      "URL":"https://goo.gl/bg9TR1"
+      "URL":"https://www.instagram.com/freefire.wiki/"
     },
     {
       "NET":"Twitter",
       "FOLLOWS":362,
+      "META":5000,
       "PREMIO":"assets/imgs/premios/mascara_2.jpg",
       "COLOR":"logo-twitter",
-      "URL":"https://goo.gl/j6ZKA6"
+      "URL":"https://twitter.com/@freefirewiki"
     }
   ]
 }
