@@ -2,7 +2,7 @@
   "FOLLOW":[
     {
       "NET":"Youtube COMPETED - 2 Mascaras",
-      "FOLLOWS":5000,
+      "FOLLOWS":29233,
       "META":45000,
       "PREMIO":"assets/imgs/premios/mascara.jpg",
       "COLOR":"logo-youtube",
@@ -10,15 +10,15 @@
     },
     {
       "NET":"Facebook 1/12/2018",
-      "FOLLOWS":5000,
-      "META":20000,
+      "FOLLOWS":10970,
+      "META":25000,
       "PREMIO":"assets/imgs/premios/mascara.jpg",
       "COLOR":"logo-facebook",
       "URL":"https://www.facebook.com/FreeFireWiki/"
     },
     {
       "NET":"Instagram 1 MASCARA",
-      "FOLLOWS":5000,
+      "FOLLOWS":7864,
       "META":20000,
       "PREMIO":"assets/imgs/premios/mascara.jpg",
       "COLOR":"logo-instagram",
@@ -26,7 +26,7 @@
     },
     {
       "NET":"Twitter",
-      "FOLLOWS":362,
+      "FOLLOWS":914,
       "META":5000,
       "PREMIO":"assets/imgs/premios/mascara_2.jpg",
       "COLOR":"logo-twitter",
