@@ -2,7 +2,7 @@
   "FOLLOW":[
     {
       "NET":"Youtube suscribete",
-      "FOLLOWS":29233,
+      "FOLLOWS":3203,
       "META":45000,
       "PREMIO":"assets/imgs/premios/mascara.jpg",
       "COLOR":"logo-youtube",
@@ -10,7 +10,7 @@
     },
     {
       "NET":"Facebook like",
-      "FOLLOWS":10970,
+      "FOLLOWS":11308,
       "META":25000,
       "PREMIO":"assets/imgs/premios/mascara.jpg",
       "COLOR":"logo-facebook",
@@ -18,7 +18,7 @@
     },
     {
       "NET":"Instagram follow",
-      "FOLLOWS":7864,
+      "FOLLOWS":8083,
       "META":20000,
       "PREMIO":"assets/imgs/premios/mascara.jpg",
       "COLOR":"logo-instagram",
