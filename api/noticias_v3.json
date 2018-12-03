@@ -1,6 +1,34 @@
 {
   "NOTICIAS":[
-    {
+   {
+
+        "IMG":"https://res.cloudinary.com/dvfegz9ob/image/upload/v1543876562/Screenshot_2018-12-03-16-34-15-851_com.instagram.android.jpg",
+
+        "LINK":"https://www.youtube.com/c/FreeFireWiki",
+
+        "FECHA":"03/12/2018",
+
+        "EsTITULO":"HORA FELIZ - HORARIOS",
+
+        "EsINFO":"Estos son los horarios para algunos países, recuerda que no perderas puntos en esta hora. Mucha suerte 🍀 ",
+
+        "EnTITULO":"Happy Hour-Schedules",
+
+        "EnINFO":"These are the schedules for some countries, remember that you will not lose points at this time. Good luck 🍀  ",
+
+        "PoTITULO":"Happy Hour-horários",
+
+        "PoINFO":"Estes são os horários para alguns países, lembre-se que você não vai perder pontos neste momento. Boa sorte 🍀 ",
+
+        "InTITULO":"Happy Hour-jadwal",
+
+        "InINFO":"Berikut adalah jadwal untuk beberapa negara, ingat bahwa Anda tidak akan kehilangan poin saat ini. Keberuntungan 🍀 ",
+
+        "ThTITULO":"ตารางเวลาความสุข",
+
+        "ThINFO":"เหล่านี้เป็นเวลาสำหรับชั่วโมงความสุขของอเมริกา, คุณจะไม่พลาดคะแนน"
+
+      }, {
 
         "IMG":"https://res.cloudinary.com/dvfegz9ob/image/upload/v1543620821/Screenshot_2018-11-30-17-32-50-090_com.camerasideas.instashot.jpg",
 
