@@ -2,7 +2,7 @@
   "FOLLOW":[
     {
       "NET":"Youtube suscribete",
-      "FOLLOWS":38200,
+      "FOLLOWS":41817,
       "META":45000,
       "PREMIO":"assets/imgs/premios/mascara.jpg",
       "COLOR":"logo-youtube",
@@ -10,7 +10,7 @@
     },
     {
       "NET":"Facebook like",
-      "FOLLOWS":14230,
+      "FOLLOWS":15465,
       "META":25000,
       "PREMIO":"assets/imgs/premios/mascara.jpg",
       "COLOR":"logo-facebook",
@@ -18,7 +18,7 @@
     },
     {
       "NET":"Instagram follow",
-      "FOLLOWS":10546,
+      "FOLLOWS":11324,
       "META":20000,
       "PREMIO":"assets/imgs/premios/mascara.jpg",
       "COLOR":"logo-instagram",
@@ -26,7 +26,7 @@
     },
     {
       "NET":"Twitter follow",
-      "FOLLOWS":1001,
+      "FOLLOWS":1070,
       "META":5000,
       "PREMIO":"assets/imgs/premios/mascara_2.jpg",
       "COLOR":"logo-twitter",
