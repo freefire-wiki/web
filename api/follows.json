@@ -2,15 +2,15 @@
   "FOLLOW":[
     {
       "NET":"Youtube suscribete",
-      "FOLLOWS":53620,
+      "FOLLOWS":57317,
       "META":70000,
       "PREMIO":"assets/imgs/premios/mascara.jpg",
       "COLOR":"logo-youtube",
-      "URL":"https://www.youtube.com/c/FreeFireWiki"
+      "URL":"https://www.youtube.com/channel/UCIW5CHnbW6pWNkKJYuggvqw"
     },
     {
       "NET":"Facebook like",
-      "FOLLOWS":19514,
+      "FOLLOWS":20624,
       "META":30000,
       "PREMIO":"assets/imgs/premios/mascara.jpg",
       "COLOR":"logo-facebook",
@@ -26,7 +26,7 @@
     },
     {
       "NET":"Twitter follow",
-      "FOLLOWS":1239,
+      "FOLLOWS":1345,
       "META":5000,
       "PREMIO":"assets/imgs/premios/mascara_2.jpg",
       "COLOR":"logo-twitter",
