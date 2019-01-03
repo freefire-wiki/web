@@ -1,6 +1,34 @@
 {
   "NOTICIAS":[
-    {
+   {
+
+        "IMG":"https://res.cloudinary.com/dzxs84qt6/image/upload/v1546485896/IMG_20190102_210939_453.jpg",
+
+        "LINK":"https://play.google.com/store/apps/details?id=com.gasa.ffwiki",
+
+        "FECHA":"02/01/2019",
+
+        "EsTITULO":"ACTUALIZACION",
+
+        "EsINFO":"Free Fire Wiki esta de vuelta. Si tienes la versión del año pasado, por favor desinstalala e instala esta nueva, que trae mejoras y nueva información. 👇👇👇👇👇👇👇👇",
+
+        "EnTITULO":"Update ",
+
+        "EnINFO":"Free Fire Wiki is back. If you have the version of last year, please uninstall and install this new, which brings improvements and new information. 👇👇👇👇👇👇👇👇 ",
+
+        "PoTITULO":"Atualização",
+
+        "PoINFO":"Free Fire wiki está de volta. Se você tem a versão do ano passado, por favor desinstale e instale este novo, que traz melhorias e novas informações. 👇👇👇👇👇👇👇👇",
+
+        "InTITULO":"Update",
+
+        "InINFO":"Gratis api Wiki adalah kembali. Jika Anda memiliki versi dari tahun lalu, Silakan uninstall dan menginstal ini baru, yang membawa perbaikan dan informasi baru. 👇👇👇👇👇👇👇👇",
+
+        "ThTITULO":"ปรับ ปรุง",
+
+        "ThINFO":"วิกิไฟฟรีกลับมา ถ้าคุณมีรุ่นของปีที่ผ่านมา, โปรดถอนการติดตั้งและทำให้ใหม่นี้, ซึ่งจะนำการปรับปรุงและข้อมูลใหม่. 👇👇👇👇👇👇👇👇"
+
+      }, {
 
         "IMG":"https://scontent-dfw5-1.cdninstagram.com/vp/5e826cfcd5a0fc7471f62cab2db32fbb/5CD6FEFB/t51.2885-15/e35/47693854_304070796892331_3219142585685276883_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com",
 
