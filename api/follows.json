@@ -2,35 +2,34 @@
   "FOLLOW":[
     {
       "NET":"Youtube suscribete",
-      "FOLLOWS":57317,
+      "FOLLOWS":57886,
       "META":70000,
       "PREMIO":"assets/imgs/premios/mascara.jpg",
       "COLOR":"logo-youtube",
       "URL":"https://www.youtube.com/channel/UCIW5CHnbW6pWNkKJYuggvqw"
     },
     {
-      "NET":"Facebook like",
-      "FOLLOWS":20624,
-      "META":30000,
+      "NET":"NimoTv Wiking follow",
+      "FOLLOWS":1544,
+      "META":3000,
       "PREMIO":"assets/imgs/premios/mascara.jpg",
-      "COLOR":"logo-facebook",
-      "URL":"https://www.facebook.com/FreeFireWiki/"
+      "COLOR":"play",
+      "URL":"https://www.nimo.tv/wiking"
     },
     {
       "NET":"Instagram follow",
-      "FOLLOWS":13476,
+      "FOLLOWS":15230,
       "META":20000,
       "PREMIO":"assets/imgs/premios/mascara.jpg",
       "COLOR":"logo-instagram",
       "URL":"https://www.instagram.com/freefire.wiki/"
-    },
-    {
-      "NET":"Twitter follow",
-      "FOLLOWS":1345,
-      "META":5000,
-      "PREMIO":"assets/imgs/premios/mascara_2.jpg",
-      "COLOR":"logo-twitter",
-      "URL":"https://twitter.com/@freefirewiki"
+    },{
+      "NET":"Facebook like",
+      "FOLLOWS":21117,
+      "META":30000,
+      "PREMIO":"assets/imgs/premios/mascara.jpg",
+      "COLOR":"logo-facebook",
+      "URL":"https://www.facebook.com/FreeFireWiki/"
     }
   ]
 }
