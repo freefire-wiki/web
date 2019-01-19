@@ -2,7 +2,7 @@
   "FOLLOW":[
     {
       "NET":"Youtube suscribete",
-      "FOLLOWS":58645,
+      "FOLLOWS":59227,
       "META":70000,
       "PREMIO":"assets/imgs/premios/mascara.jpg",
       "COLOR":"logo-youtube",
@@ -10,7 +10,7 @@
     },
     {
       "NET":"NimoTv Wiking follow",
-      "FOLLOWS":2166,
+      "FOLLOWS":2396,
       "META":3000,
       "PREMIO":"assets/imgs/premios/mascara.jpg",
       "COLOR":"play",
@@ -18,14 +18,14 @@
     },
     {
       "NET":"Instagram follow",
-      "FOLLOWS":15477,
+      "FOLLOWS":15797,
       "META":20000,
       "PREMIO":"assets/imgs/premios/mascara.jpg",
       "COLOR":"logo-instagram",
       "URL":"https://www.instagram.com/freefire.wiki/"
     },{
       "NET":"Facebook like",
-      "FOLLOWS":21117,
+      "FOLLOWS":21365,
       "META":30000,
       "PREMIO":"assets/imgs/premios/mascara.jpg",
       "COLOR":"logo-facebook",
