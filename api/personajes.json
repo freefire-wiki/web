@@ -1,0 +1,19 @@
+{
+  "PERSONAJES":[
+    {
+            "NOMBRE":"Wukong",
+            "IMG":"assets/imgs/pers/wukong.png",
+            "IMG_GRANDE":"assets/imgs/pers/wukong_grande.png",
+            "EDAD":0,
+            "IMG_HABILIDAD":"assets/imgs/pers/h_wukong.png",
+            "LVL1":"assets/imgs/pers/wukong_level_1.png",
+            "LVL2":"assets/imgs/pers/wukong_level_2.png",
+            "LVL3":"assets/imgs/pers/wukong_level_3.png",
+            "LVL4":"assets/imgs/pers/wukong_level_4.png",
+            "LVL5":"assets/imgs/pers/wukong_level_5.png",
+            "LVL6":"assets/imgs/pers/wukong_level_6.png",
+            "LVL7":"assets/imgs/pers/wukong_level_7.png",
+            "LVL8":"assets/imgs/pers/wukong_level_8.png"
+    }
+  ]
+}
