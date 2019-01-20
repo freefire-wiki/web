@@ -1,39 +1,5 @@
 {
   "NEWS": [
-        {
-
-            "TITULO": "P90",
-
-            "IMG": "https://res.cloudinary.com/dqqwhnotp/image/upload/v1541498574/n/Screenshot_2018-11-06-04-00-50-833_com.instagram.android.jpg",
-
-            "SKIN":[
-
-              "https://res.cloudinary.com/dqqwhnotp/image/upload/v1541498574/n/Screenshot_2018-11-06-04-00-50-833_com.instagram.android.jpg"
-
-            ],
-
-            "DAMAGE":48,
-
-            "RANGO":27,
-
-            "VEL_DISPARO":75,
-
-            "VEL_CARGA":48,
-
-            "CARTUCHO":50,
-
-            "PUNTERIA":37,
-
-            "ACCESORIOS":[
-
-            "assets/imgs/armas/accesorios/cargador.png",
-
-                "assets/imgs/armas/accesorios/mirilla.png"
-
-            ],
-
-            "BALA":"assets/imgs/armas/balas/smg.png"
-
-        }
+        
       ]
 }
