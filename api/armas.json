@@ -1,5 +1,21 @@
 {
   "NEWS": [
-        
+           {
+            "TITULO": "MGL140",
+            "IMG": "https://ff.garena.com/statics/ff//images/weapon/mgl140.png",
+            "SKIN":[
+                "https://ff.garena.com/statics/ff//images/weapon/mgl140.png"
+            ],
+            "DAMAGE":90,
+            "RANGO":51,
+            "VEL_DISPARO":33,
+            "VEL_CARGA":76,
+            "CARTUCHO":5,
+            "PUNTERIA":90,
+            "ACCESORIOS":[
+              "assets/imgs/armas/accesorios/cargador.png"
+            ],
+            "BALA":"assets/imgs/armas/balas/papa.png"
+        }
       ]
 }
