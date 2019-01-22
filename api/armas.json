@@ -16,6 +16,29 @@
               "assets/imgs/armas/accesorios/cargador.png"
             ],
             "BALA":"assets/imgs/armas/balas/papa.png"
+        },
+    {
+            "TITULO": "MGL140",
+            "IMG": "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50658279_1912840735510087_576874503682916352_n.png?_nc_cat=106&_nc_ht=scontent-dfw5-1.xx&oh=3bb0f07d716160e99538d1fa101b178d&oe=5CC791A6",
+            "SKIN":[
+                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50658279_1912840735510087_576874503682916352_n.png?_nc_cat=106&_nc_ht=scontent-dfw5-1.xx&oh=3bb0f07d716160e99538d1fa101b178d&oe=5CC791A6"
+            ],
+            "DAMAGE":59,
+            "RANGO":64,
+            "VEL_DISPARO":53,
+            "VEL_CARGA":45,
+            "CARTUCHO":30,
+            "PUNTERIA":47,
+            "ACCESORIOS":[
+                "assets/imgs/armas/accesorios/astil.png",
+                "assets/imgs/armas/accesorios/bipode.png",
+                "assets/imgs/armas/accesorios/boquilla.png",
+                "assets/imgs/armas/accesorios/cargador.png",
+                "assets/imgs/armas/accesorios/mirilla.png",
+                "assets/imgs/armas/accesorios/silenciador.png"
+
+            ],
+            "BALA":"assets/imgs/armas/balas/ar.png"
         }
       ]
 }
