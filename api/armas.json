@@ -1,23 +1,25 @@
+
+
+
+
 {
   "NEWS": [
            {
-            "TITULO": "MGL140",
-            "IMG": "https://ff.garena.com/statics/ff//images/weapon/mgl140.png",
+            "TITULO": "TREATMENT GUN",
+            "IMG": "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50534743_396466347775701_6471704030677565440_n.png?_nc_cat=106&_nc_ht=scontent-dfw5-1.xx&oh=ccbb16937103752906f561ed305a381b&oe=5CC45B35",
             "SKIN":[
-                "https://ff.garena.com/statics/ff//images/weapon/mgl140.png"
+                "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50534743_396466347775701_6471704030677565440_n.png?_nc_cat=106&_nc_ht=scontent-dfw5-1.xx&oh=ccbb16937103752906f561ed305a381b&oe=5CC45B35"
             ],
-            "DAMAGE":90,
-            "RANGO":51,
-            "VEL_DISPARO":33,
-            "VEL_CARGA":76,
-            "CARTUCHO":5,
-            "PUNTERIA":90,
+            "DAMAGE":56,
+            "RANGO":33,
+            "VEL_DISPARO":44,
+            "VEL_CARGA":48,
+            "CARTUCHO":25,
+            "PUNTERIA":57,
             "ACCESORIOS":[
-              "assets/imgs/armas/accesorios/cargador.png"
-            ],
-            "BALA":"assets/imgs/armas/balas/papa.png"
+            ]
         },
-    {
+        {
             "TITULO": "AN94",
             "IMG": "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/50658279_1912840735510087_576874503682916352_n.png?_nc_cat=106&_nc_ht=scontent-dfw5-1.xx&oh=3bb0f07d716160e99538d1fa101b178d&oe=5CC791A6",
             "SKIN":[
@@ -39,6 +41,23 @@
 
             ],
             "BALA":"assets/imgs/armas/balas/ar.png"
+        },
+        {
+            "TITULO": "MGL140",
+            "IMG": "https://ff.garena.com/statics/ff//images/weapon/mgl140.png",
+            "SKIN":[
+                "https://ff.garena.com/statics/ff//images/weapon/mgl140.png"
+            ],
+            "DAMAGE":90,
+            "RANGO":51,
+            "VEL_DISPARO":33,
+            "VEL_CARGA":76,
+            "CARTUCHO":5,
+            "PUNTERIA":90,
+            "ACCESORIOS":[
+              "assets/imgs/armas/accesorios/cargador.png"
+            ],
+            "BALA":"assets/imgs/armas/balas/papa.png"
         }
       ]
 }
