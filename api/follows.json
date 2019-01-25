@@ -2,7 +2,7 @@
   "FOLLOW":[
     {
       "NET":"Youtube suscribete",
-      "FOLLOWS":60579,
+      "FOLLOWS":62249,
       "META":70000,
       "PREMIO":"assets/imgs/premios/mascara.jpg",
       "COLOR":"logo-youtube",
@@ -10,8 +10,8 @@
     },
     {
       "NET":"NimoTv Wiking follow",
-      "FOLLOWS":2911,
-      "META":3000,
+      "FOLLOWS":3429,
+      "META":5000,
       "PREMIO":"assets/imgs/premios/mascara.jpg",
       "COLOR":"play",
       "URL":"https://www.nimo.tv/wiking"
