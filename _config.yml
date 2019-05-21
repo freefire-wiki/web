@@ -1,0 +1,51 @@
+title: Free Fire Wiki
+author: gasa
+email: freefire.wiki@gmail.com
+url: https://www.freefire.wiki/
+description: > # this means to ignore newlines until "show_exerpts:"
+  Un lugar de noticias e informacion acerca de Free Fire
+show_excerpts: false # set to true to show excerpts on the homepage
+
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+tag_permalink_style: pretty
+tag_page_layout: tag_page
+tag_page_dir: tag
+
+# jekyll-dash date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+dash:
+  date_format: "%b %-d, %Y"
+
+  disqus:
+    shortname: free-fire-wiki
+
+  # generate social links in footer
+  # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
+  social_links:
+    - url: https://twitter.com/FreeFireWiki
+      icon: twitter-square
+      color: cyan
+    - url: https://www.instagram.com/freefire.wiki
+      icon: instagram
+      color: pink
+    - url: https://www.youtube.com/channel/UCIW5CHnbW6pWNkKJYuggvqw
+      icon: youtube-square
+      color: red
+    - url: https://www.facebook.com/FreeFireWiki
+      icon: facebook-square
+      color: blue
+    - url: https://www.nimo.tv/wiking
+      icon: sketch
+      color: purple
+
+# Build settings
+theme: jekyll-dash
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-paginate
+ - liquid-md5
+ - jekyll/tagging
