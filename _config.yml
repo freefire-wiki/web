@@ -4,7 +4,7 @@ email: freefire.wiki@gmail.com
 url: https://www.freefire.wiki/
 description: > # this means to ignore newlines until "show_exerpts:"
   Un lugar de noticias e informacion acerca de Free Fire
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 paginate: 5
 paginate_path: "/blog/page:num/"
